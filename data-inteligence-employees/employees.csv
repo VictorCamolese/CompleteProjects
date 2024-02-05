@@ -1,0 +1,1001 @@
+EEID,Job,Department,Business,Gender,Ethnicity,Age,Salary,Bonus,Country,Hire Date,Exit Date,Years of Service,Hired,Category
+E00085,Vice President,Accounting,Corporate,Female,Asian,56,190815.0,0.4,United States,2014-03-16,2024-01-29,9.9,1,Intermediate
+E03547,Analyst,Accounting,Corporate,Male,Asian,28,52069.0,0.0,China,2017-05-12,2024-01-29,6.7,1,Intermediate
+E04742,Vice President,Accounting,Corporate,Female,Latino,33,258426.0,0.4,Brazil,2020-12-16,2024-01-29,3.1,1,New
+E00276,Sr. Manager,Accounting,Corporate,Male,Caucasian,33,144231.0,0.14,United States,2013-02-10,2020-07-17,7.4,0,Intermediate
+E00825,Sr. Analyst,Accounting,Corporate,Female,Latino,41,70165.0,0.0,United States,2016-06-12,2024-01-29,7.6,1,Intermediate
+E02632,Analyst,Accounting,Corporate,Female,Latino,56,50857.0,0.0,Brazil,1995-04-13,2024-01-29,28.8,1,Veteran
+E02534,Sr. Manager,Accounting,Corporate,Female,Caucasian,55,159885.0,0.12,United States,2004-05-28,2024-01-29,19.7,1,Veteran
+E02337,Analyst,Accounting,Corporate,Female,Asian,27,50809.0,0.0,China,2019-08-24,2024-01-29,4.4,1,New
+E00826,Analyst,Accounting,Corporate,Female,Asian,55,54733.0,0.0,China,2011-12-22,2024-01-29,12.1,1,Intermediate
+E04213,Manager,Accounting,Corporate,Female,Asian,52,111006.0,0.08,China,2021-11-19,2024-01-29,2.2,1,New
+E03113,Manager,Accounting,Corporate,Female,Asian,50,102033.0,0.08,United States,2012-09-03,2024-01-29,11.4,1,Intermediate
+E01123,Director,Accounting,Corporate,Female,Caucasian,27,161759.0,0.16,United States,2021-07-16,2024-01-29,2.5,1,New
+E03642,Manager,Accounting,Corporate,Female,Caucasian,38,106858.0,0.05,United States,2015-08-12,2024-01-29,8.5,1,Intermediate
+E02563,Vice President,Accounting,Corporate,Female,Caucasian,36,253294.0,0.4,United States,2020-01-13,2024-01-29,4.0,1,New
+E03694,Sr. Manager,Accounting,Corporate,Female,Black,31,124629.0,0.1,United States,2017-01-20,2024-01-29,7.0,1,Intermediate
+E01465,Sr. Manager,Accounting,Corporate,Female,Caucasian,62,150555.0,0.13,United States,2009-01-30,2024-01-29,15.0,1,Intermediate
+E04415,Director,Accounting,Corporate,Female,Asian,60,186378.0,0.26,China,2004-05-14,2024-01-29,19.7,1,Veteran
+E04249,Vice President,Accounting,Corporate,Female,Asian,47,243568.0,0.33,United States,2021-12-26,2024-01-29,2.1,1,New
+E02153,Analyst,Accounting,Corporate,Female,Latino,26,55767.0,0.0,United States,2019-01-24,2024-01-29,5.0,1,New
+E03305,Analyst II,Accounting,Corporate,Male,Asian,49,50883.0,0.0,China,2019-07-25,2021-03-02,1.6,0,New
+E03545,Vice President,Accounting,Corporate,Female,Asian,63,216195.0,0.31,United States,2020-07-26,2024-01-29,3.5,1,New
+E04533,Manager,Accounting,Manufacturing,Male,Caucasian,29,113527.0,0.06,United States,2019-01-25,2024-01-29,5.0,1,New
+E00502,Sr. Analyst,Accounting,Manufacturing,Female,Latino,44,74691.0,0.0,Brazil,2019-01-02,2020-07-08,1.5,0,New
+E00568,Director,Accounting,Manufacturing,Female,Latino,27,174097.0,0.21,United States,2018-06-25,2024-01-29,5.6,1,Intermediate
+E04359,Vice President,Accounting,Manufacturing,Male,Asian,25,198243.0,0.31,United States,2021-02-08,2024-01-29,3.0,1,New
+E04890,Sr. Manager,Accounting,Manufacturing,Female,Asian,49,129124.0,0.12,China,2001-04-02,2024-01-29,22.8,1,Veteran
+E01921,Sr. Manager,Accounting,Manufacturing,Female,Caucasian,55,138521.0,0.1,United States,2011-01-09,2024-01-29,13.1,1,Intermediate
+E02555,Sr. Analyst,Accounting,Manufacturing,Male,Latino,38,78056.0,0.0,Brazil,2008-07-05,2024-01-29,15.6,1,Veteran
+E04800,Sr. Analyst,Accounting,Manufacturing,Male,Asian,40,89984.0,0.0,China,2016-01-15,2024-01-29,8.0,1,Intermediate
+E04126,Sr. Analyst,Accounting,Manufacturing,Male,Black,51,91853.0,0.0,United States,2020-10-09,2024-01-29,3.3,1,New
+E00702,Sr. Manager,Accounting,Manufacturing,Male,Asian,45,149537.0,0.14,United States,2006-12-12,2024-01-29,17.1,1,Veteran
+E00556,Director,Accounting,Manufacturing,Male,Caucasian,29,181854.0,0.29,United States,2017-02-19,2020-04-24,3.2,0,New
+E00500,Director,Accounting,Manufacturing,Male,Asian,55,187389.0,0.25,China,2010-06-11,2024-01-29,13.6,1,Intermediate
+E01089,Analyst II,Accounting,Manufacturing,Male,Caucasian,43,56555.0,0.0,United States,2017-10-20,2024-01-29,6.3,1,Intermediate
+E01416,Analyst II,Accounting,Manufacturing,Male,Black,30,67753.0,0.0,United States,2020-10-20,2024-01-29,3.3,1,New
+E02960,Sr. Analyst,Accounting,Manufacturing,Female,Caucasian,56,90040.0,0.0,United States,2018-03-10,2024-01-29,5.9,1,Intermediate
+E04131,Analyst,Accounting,Manufacturing,Female,Asian,40,57225.0,0.0,United States,2018-12-06,2024-01-29,5.2,1,Intermediate
+E00184,Analyst,Accounting,Manufacturing,Male,Latino,58,56350.0,0.0,Brazil,2010-04-19,2024-01-29,13.8,1,Intermediate
+E02781,Director,Accounting,Manufacturing,Female,Asian,63,193044.0,0.15,United States,2007-03-06,2024-01-29,16.9,1,Veteran
+E02881,Sr. Analyst,Accounting,Manufacturing,Female,Asian,43,92940.0,0.0,China,2014-01-23,2024-01-29,10.0,1,Intermediate
+E01877,Analyst,Accounting,Manufacturing,Female,Latino,33,45049.0,0.0,United States,2018-05-27,2024-01-29,5.7,1,Intermediate
+E00145,Analyst,Accounting,Manufacturing,Female,Caucasian,28,45819.0,0.0,United States,2019-05-25,2024-01-29,4.7,1,New
+E04766,Vice President,Accounting,Manufacturing,Female,Asian,38,191571.0,0.32,United States,2012-12-13,2024-01-29,11.1,1,Intermediate
+E03289,Vice President,Accounting,Manufacturing,Male,Asian,64,252325.0,0.4,United States,2013-03-29,2024-01-29,10.8,1,Intermediate
+E02900,Manager,Accounting,Manufacturing,Female,Caucasian,34,103707.0,0.09,United States,2014-10-03,2024-01-29,9.3,1,Intermediate
+E01749,Analyst,Accounting,Manufacturing,Male,Asian,29,58703.0,0.0,United States,2016-08-20,2024-01-29,7.4,1,Intermediate
+E01488,Sr. Analyst,Accounting,Manufacturing,Female,Asian,44,98520.0,0.0,United States,2021-04-28,2024-01-29,2.8,1,New
+E00836,Manager,Accounting,Manufacturing,Male,Caucasian,57,101577.0,0.05,United States,2019-01-19,2024-01-29,5.0,1,New
+E00682,Manager,Accounting,Manufacturing,Female,Latino,44,105223.0,0.1,United States,2005-10-17,2024-01-29,18.3,1,Veteran
+E02139,Director,Accounting,Research & Development,Female,Asian,36,178700.0,0.29,United States,2015-09-29,2024-01-29,8.3,1,Intermediate
+E02166,Manager,Accounting,Research & Development,Male,Caucasian,55,115798.0,0.05,United States,2000-04-28,2024-01-29,23.8,1,Veteran
+E01486,Vice President,Accounting,Research & Development,Male,Asian,59,192213.0,0.4,United States,2011-05-18,2024-01-29,12.7,1,Intermediate
+E01309,Director,Accounting,Research & Development,Female,Asian,58,173071.0,0.29,United States,2003-05-14,2024-01-29,20.7,1,Veteran
+E02062,Analyst,Accounting,Research & Development,Female,Latino,55,48687.0,0.0,Brazil,1996-06-26,2024-01-29,27.6,1,Veteran
+E03972,Sr. Analyst,Accounting,Research & Development,Male,Latino,58,98769.0,0.0,Brazil,1994-09-15,2016-10-03,22.1,0,Veteran
+E03630,Director,Accounting,Research & Development,Male,Caucasian,36,150399.0,0.28,United States,2016-09-03,2024-01-29,7.4,1,Intermediate
+E03327,Sr. Manager,Accounting,Research & Development,Female,Asian,55,142628.0,0.12,China,2006-06-20,2024-01-29,17.6,1,Veteran
+E02728,Sr. Analyst,Accounting,Research & Development,Male,Asian,34,97231.0,0.0,China,2011-07-26,2024-01-29,12.5,1,Intermediate
+E04817,Sr. Analyst,Accounting,Research & Development,Female,Latino,53,90212.0,0.0,Brazil,2004-12-23,2024-01-29,19.1,1,Veteran
+E03220,Manager,Accounting,Research & Development,Male,Latino,34,128329.0,0.08,United States,2018-06-04,2024-01-29,5.7,1,Intermediate
+E04150,Analyst,Accounting,Research & Development,Female,Asian,54,55518.0,0.0,United States,2006-12-29,2024-01-29,17.1,1,Veteran
+E02307,Director,Accounting,Research & Development,Female,Caucasian,42,174099.0,0.26,United States,2009-06-04,2024-01-29,14.7,1,Intermediate
+E01396,Analyst II,Accounting,Research & Development,Male,Asian,43,58875.0,0.0,China,2014-02-10,2024-01-29,10.0,1,Intermediate
+E04994,Director,Accounting,Research & Development,Female,Caucasian,35,161269.0,0.27,United States,2017-06-26,2024-01-29,6.6,1,Intermediate
+E00508,Sr. Analyst,Accounting,Research & Development,Male,Asian,50,79447.0,0.0,China,2009-10-23,2024-01-29,14.3,1,Intermediate
+E02938,Manager,Accounting,Research & Development,Male,Caucasian,44,117545.0,0.06,United States,2002-02-09,2024-01-29,22.0,1,Veteran
+E00282,Analyst II,Accounting,Research & Development,Male,Latino,58,64202.0,0.0,United States,2006-04-12,2024-01-29,17.8,1,Veteran
+E03496,Sr. Analyst,Accounting,Speciality Products,Male,Asian,31,97078.0,0.0,United States,2017-11-04,2020-03-09,2.3,0,New
+E00105,Manager,Accounting,Speciality Products,Female,Latino,38,109812.0,0.09,Brazil,2021-11-16,2024-01-29,2.2,1,New
+E03383,Director,Accounting,Speciality Products,Male,Caucasian,26,180664.0,0.27,United States,2020-07-28,2024-01-29,3.5,1,New
+E01261,Analyst II,Accounting,Speciality Products,Male,Caucasian,55,52310.0,0.0,United States,2007-04-05,2018-10-12,11.5,0,Intermediate
+E03689,Sr. Analyst,Accounting,Speciality Products,Male,Caucasian,62,76906.0,0.0,United States,2003-04-22,2024-01-29,20.8,1,Veteran
+E04477,Sr. Analyst,Accounting,Speciality Products,Male,Caucasian,27,74077.0,0.0,United States,2021-10-13,2024-01-29,2.3,1,New
+E01753,Manager,Accounting,Speciality Products,Male,Asian,40,120905.0,0.05,United States,2018-02-16,2024-01-29,6.0,1,Intermediate
+E02652,Manager,Accounting,Speciality Products,Male,Asian,63,103724.0,0.05,China,2015-07-29,2024-01-29,8.5,1,Intermediate
+E00515,Sr. Manager,Accounting,Speciality Products,Male,Latino,40,159031.0,0.1,United States,2019-01-23,2024-01-29,5.0,1,New
+E04194,Director,Accounting,Speciality Products,Female,Asian,55,188727.0,0.23,China,2010-10-17,2024-01-29,13.3,1,Intermediate
+E03880,Analyst,Accounting,Speciality Products,Female,Caucasian,56,54829.0,0.0,United States,2019-12-25,2024-01-29,4.1,1,New
+E00624,Director,Accounting,Speciality Products,Male,Caucasian,41,167526.0,0.26,United States,2013-06-04,2024-01-29,10.7,1,Intermediate
+E00864,Manager,Accounting,Speciality Products,Female,Latino,46,102636.0,0.06,United States,2010-04-24,2024-01-29,13.8,1,Intermediate
+E03305,Manager,Accounting,Speciality Products,Female,Caucasian,31,114911.0,0.07,United States,2014-10-07,2024-01-29,9.3,1,Intermediate
+E04403,Manager,Accounting,Speciality Products,Male,Asian,34,118708.0,0.07,China,2012-02-13,2024-01-29,12.0,1,Intermediate
+E00103,Director,Accounting,Speciality Products,Female,Asian,29,197649.0,0.2,United States,2017-06-28,2024-01-29,6.6,1,Intermediate
+E04487,Sr. Analyst,Accounting,Speciality Products,Female,Asian,45,89841.0,0.0,China,2020-06-17,2024-01-29,3.6,1,New
+E04536,Sr. Manager,Accounting,Speciality Products,Female,Caucasian,48,124774.0,0.12,United States,2010-07-30,2024-01-29,13.5,1,Intermediate
+E00380,Vice President,Accounting,Speciality Products,Female,Caucasian,48,217783.0,0.36,United States,2007-04-25,2024-01-29,16.8,1,Veteran
+E03750,Analyst II,Accounting,Speciality Products,Male,Asian,28,61410.0,0.0,United States,2018-08-24,2024-01-29,5.4,1,Intermediate
+E01883,Sr. Manager,Accounting,Speciality Products,Female,Latino,28,152036.0,0.15,Brazil,2019-07-06,2024-01-29,4.6,1,New
+E03349,Director,Accounting,Speciality Products,Male,Asian,35,181356.0,0.23,China,2017-08-16,2024-01-29,6.5,1,Intermediate
+E01249,Vice President,Accounting,Speciality Products,Male,Caucasian,41,235619.0,0.3,United States,2013-08-17,2024-01-29,10.5,1,Intermediate
+E02923,Sr. Analyst,Accounting,Speciality Products,Male,Asian,54,93668.0,0.0,United States,2016-05-04,2024-01-29,7.7,1,Intermediate
+E04095,Sr. Analyst,Accounting,Speciality Products,Female,Caucasian,38,89390.0,0.0,United States,2020-07-24,2024-01-29,3.5,1,New
+E00717,Sr. Analyst,Accounting,Speciality Products,Male,Latino,62,94422.0,0.0,United States,2011-02-17,2024-01-29,13.0,1,Intermediate
+E02202,Vice President,Accounting,Speciality Products,Female,Caucasian,41,245360.0,0.37,United States,2012-08-09,2024-01-29,11.5,1,Intermediate
+E00646,Analyst,Accounting,Speciality Products,Male,Caucasian,49,56878.0,0.0,United States,2011-12-17,2024-01-29,12.1,1,Intermediate
+E00785,Manager,Accounting,Speciality Products,Female,Asian,25,114893.0,0.06,China,2021-12-15,2024-01-29,2.1,1,New
+E04545,Quality Engineer,Engineering,Corporate,Female,Latino,56,98581.0,0.0,Brazil,2005-02-05,2024-01-29,19.0,1,Veteran
+E01839,Automation Engineer,Engineering,Corporate,Female,Caucasian,52,102043.0,0.0,United States,2005-12-10,2024-01-29,18.1,1,Veteran
+E04000,Engineering Manager,Engineering,Corporate,Female,Latino,44,92753.0,0.13,United States,2008-12-18,2021-06-24,12.5,0,Intermediate
+E00665,Controls Engineer,Engineering,Corporate,Male,Asian,55,86299.0,0.0,United States,1998-09-03,2024-01-29,25.4,1,Veteran
+E03875,Development Engineer,Engineering,Corporate,Female,Caucasian,51,96475.0,0.0,United States,1995-12-22,2024-01-29,28.1,1,Veteran
+E04265,Operations Engineer,Engineering,Corporate,Female,Latino,62,79785.0,0.0,United States,2006-10-12,2024-01-29,17.3,1,Veteran
+E02464,Vice President,Engineering,Corporate,Female,Latino,28,240488.0,0.4,Brazil,2017-07-06,2024-01-29,6.6,1,Intermediate
+E01425,Vice President,Engineering,Corporate,Male,Caucasian,33,205314.0,0.3,United States,2015-06-18,2024-01-29,8.6,1,Intermediate
+E00769,Engineering Manager,Engineering,Corporate,Male,Asian,57,95061.0,0.1,China,1999-04-25,2024-01-29,24.8,1,Veteran
+E02813,Engineering Manager,Engineering,Corporate,Male,Asian,45,95743.0,0.15,United States,2001-04-12,2010-01-15,8.8,0,Intermediate
+E00245,Test Engineer,Engineering,Corporate,Male,Latino,64,70778.0,0.0,United States,1992-09-28,2024-01-29,31.4,1,Veteran
+E01807,Test Engineer,Engineering,Corporate,Male,Caucasian,50,63098.0,0.0,United States,2018-12-13,2024-01-29,5.1,1,Intermediate
+E03018,Development Engineer,Engineering,Corporate,Female,Caucasian,37,70770.0,0.0,United States,2017-09-17,2024-01-29,6.4,1,Intermediate
+E00467,Operations Engineer,Engineering,Corporate,Female,Asian,55,80701.0,0.0,United States,1995-08-04,2005-04-14,9.7,0,Intermediate
+E00306,Quality Engineer,Engineering,Corporate,Female,Caucasian,45,88045.0,0.0,United States,2019-06-19,2024-01-29,4.6,1,New
+E04571,Director,Engineering,Corporate,Female,Latino,60,178502.0,0.2,United States,2017-01-04,2024-01-29,7.1,1,Intermediate
+E03802,Director,Engineering,Corporate,Male,Latino,46,173629.0,0.21,Brazil,2014-07-19,2024-01-29,9.5,1,Intermediate
+E02730,Quality Engineer,Engineering,Corporate,Male,Latino,46,96639.0,0.0,Brazil,2005-04-22,2024-01-29,18.8,1,Veteran
+E02678,Director,Engineering,Corporate,Male,Latino,45,189680.0,0.23,Brazil,2007-04-13,2024-01-29,16.8,1,Veteran
+E00268,Director,Engineering,Corporate,Male,Latino,48,183113.0,0.24,Brazil,2019-12-10,2024-01-29,4.1,1,New
+E00153,Field Engineer,Engineering,Corporate,Female,Caucasian,39,62644.0,0.0,United States,2019-03-12,2024-01-29,4.9,1,New
+E00703,Engineering Manager,Engineering,Corporate,Male,Latino,45,115490.0,0.12,United States,2018-04-27,2024-01-29,5.8,1,Intermediate
+E01787,Director,Engineering,Corporate,Female,Latino,27,170164.0,0.17,United States,2018-12-07,2024-01-29,5.1,1,Intermediate
+E03563,Operations Engineer,Engineering,Corporate,Male,Caucasian,47,115765.0,0.0,United States,2020-06-08,2021-02-02,0.7,0,New
+E04720,Controls Engineer,Engineering,Corporate,Male,Asian,28,95670.0,0.0,United States,2021-12-18,2024-01-29,2.1,1,New
+E02877,Controls Engineer,Engineering,Corporate,Female,Caucasian,56,76272.0,0.0,United States,2015-10-14,2021-10-22,6.0,0,Intermediate
+E02298,Engineering Manager,Engineering,Corporate,Female,Asian,32,99202.0,0.11,United States,2014-12-04,2024-01-29,9.2,1,Intermediate
+E02276,Field Engineer,Engineering,Corporate,Female,Caucasian,32,65247.0,0.0,United States,2015-11-09,2024-01-29,8.2,1,Intermediate
+E00371,Quality Engineer,Engineering,Corporate,Female,Caucasian,41,79352.0,0.0,United States,2005-10-07,2024-01-29,18.3,1,Veteran
+E04369,Quality Engineer,Engineering,Corporate,Male,Caucasian,27,80745.0,0.0,United States,2018-09-11,2024-01-29,5.4,1,Intermediate
+E00863,Operations Engineer,Engineering,Corporate,Male,Latino,59,96313.0,0.0,United States,2008-09-10,2024-01-29,15.4,1,Veteran
+E01242,Controls Engineer,Engineering,Corporate,Female,Asian,25,86464.0,0.0,China,2021-06-23,2024-01-29,2.6,1,New
+E02535,Controls Engineer,Engineering,Corporate,Female,Latino,29,80516.0,0.0,Brazil,2018-01-14,2024-01-29,6.0,1,Intermediate
+E02563,Controls Engineer,Engineering,Corporate,Female,Latino,47,111404.0,0.0,Brazil,2018-10-02,2024-01-29,5.3,1,Intermediate
+E04032,Field Engineer,Engineering,Corporate,Female,Asian,45,89659.0,0.0,China,2012-02-28,2024-01-29,11.9,1,Intermediate
+E04152,Controls Engineer,Engineering,Manufacturing,Female,Asian,34,99989.0,0.0,China,2019-12-16,2024-01-29,4.1,1,New
+E03025,Director,Engineering,Manufacturing,Female,Caucasian,45,189420.0,0.2,United States,2014-10-29,2024-01-29,9.3,1,Intermediate
+E01633,Operations Engineer,Engineering,Manufacturing,Female,Asian,46,90678.0,0.0,United States,2001-05-30,2024-01-29,22.7,1,Veteran
+E02966,Field Engineer,Engineering,Manufacturing,Male,Caucasian,58,76354.0,0.0,United States,2002-05-23,2021-09-26,19.4,0,Veteran
+E04413,Controls Engineer,Engineering,Manufacturing,Male,Caucasian,36,113781.0,0.0,United States,2016-12-02,2024-01-29,7.2,1,Intermediate
+E03717,Field Engineer,Engineering,Manufacturing,Male,Latino,45,75819.0,0.0,Brazil,2002-02-26,2024-01-29,21.9,1,Veteran
+E00715,Vice President,Engineering,Manufacturing,Male,Asian,35,245482.0,0.39,United States,2011-10-10,2024-01-29,12.3,1,Intermediate
+E04288,Development Engineer,Engineering,Manufacturing,Female,Caucasian,25,71359.0,0.0,United States,2020-01-20,2024-01-29,4.0,1,New
+E01409,Controls Engineer,Engineering,Manufacturing,Male,Latino,40,113987.0,0.0,Brazil,2008-02-28,2024-01-29,15.9,1,Veteran
+E00917,Vice President,Engineering,Manufacturing,Female,Caucasian,30,255431.0,0.36,United States,2018-03-06,2024-01-29,5.9,1,Intermediate
+E01263,Test Engineer,Engineering,Manufacturing,Male,Latino,36,60055.0,0.0,United States,2009-04-09,2024-01-29,14.8,1,Intermediate
+E01091,Development Engineer,Engineering,Manufacturing,Male,Black,40,74412.0,0.0,United States,2005-07-07,2024-01-29,18.6,1,Veteran
+E04779,Vice President,Engineering,Manufacturing,Male,Caucasian,63,180994.0,0.39,United States,2016-01-18,2024-01-29,8.0,1,Intermediate
+E00265,Quality Engineer,Engineering,Manufacturing,Female,Latino,60,92932.0,0.0,United States,1998-07-16,2024-01-29,25.6,1,Veteran
+E00360,Director,Engineering,Manufacturing,Male,Asian,53,168510.0,0.29,United States,2012-10-22,2024-01-29,11.3,1,Intermediate
+E04962,Vice President,Engineering,Manufacturing,Female,Asian,50,181801.0,0.4,China,2008-10-13,2019-12-11,11.2,0,Intermediate
+E03893,Vice President,Engineering,Manufacturing,Female,Asian,55,221465.0,0.34,China,2018-09-02,2024-01-29,5.4,1,Intermediate
+E04226,Operations Engineer,Engineering,Manufacturing,Male,Caucasian,47,120628.0,0.0,United States,2001-01-02,2024-01-29,23.1,1,Veteran
+E04308,Development Engineer,Engineering,Manufacturing,Male,Latino,35,65566.0,0.0,United States,2017-05-23,2024-01-29,6.7,1,Intermediate
+E02190,Test Engineer,Engineering,Manufacturing,Male,Caucasian,57,71167.0,0.0,United States,2018-07-18,2024-01-29,5.5,1,Intermediate
+E03849,Quality Engineer,Engineering,Manufacturing,Female,Asian,50,92209.0,0.0,China,2002-07-09,2024-01-29,21.6,1,Veteran
+E00096,Development Engineer,Engineering,Manufacturing,Female,Latino,30,91134.0,0.0,Brazil,2016-05-26,2024-01-29,7.7,1,Intermediate
+E03181,Development Engineer,Engineering,Manufacturing,Male,Asian,60,62239.0,0.0,China,2009-05-11,2024-01-29,14.7,1,Intermediate
+E03402,Field Engineer,Engineering,Manufacturing,Male,Asian,60,88213.0,0.0,China,1992-10-13,2024-01-29,31.3,1,Veteran
+E03984,Controls Engineer,Engineering,Manufacturing,Female,Black,55,95562.0,0.0,United States,2021-03-21,2024-01-29,2.9,1,New
+E02825,Vice President,Engineering,Manufacturing,Male,Asian,63,254289.0,0.39,United States,2013-06-03,2024-01-29,10.7,1,Intermediate
+E00023,Director,Engineering,Manufacturing,Male,Caucasian,52,187992.0,0.28,United States,2006-10-28,2024-01-29,17.3,1,Veteran
+E01706,Operations Engineer,Engineering,Manufacturing,Female,Asian,45,109422.0,0.0,China,2004-03-11,2024-01-29,19.9,1,Veteran
+E03994,Automation Engineer,Engineering,Manufacturing,Male,Asian,57,103183.0,0.0,United States,2018-02-26,2021-07-09,3.4,0,New
+E00608,Development Engineer,Engineering,Manufacturing,Female,Asian,29,75012.0,0.0,United States,2019-11-09,2024-01-29,4.2,1,New
+E00667,Field Engineer,Engineering,Manufacturing,Female,Asian,42,72903.0,0.0,United States,2012-04-27,2024-01-29,11.8,1,Intermediate
+E01508,Engineering Manager,Engineering,Manufacturing,Female,Latino,49,100810.0,0.12,Brazil,2016-03-12,2024-01-29,7.9,1,Intermediate
+E01684,Field Engineer,Engineering,Manufacturing,Male,Asian,64,67114.0,0.0,United States,2019-03-03,2024-01-29,4.9,1,New
+E03720,Quality Engineer,Engineering,Research & Development,Male,Caucasian,52,71476.0,0.0,United States,2012-10-17,2024-01-29,11.3,1,Intermediate
+E01797,Field Engineer,Engineering,Research & Development,Female,Caucasian,33,83990.0,0.0,United States,2018-12-22,2024-01-29,5.1,1,Intermediate
+E04474,Test Engineer,Engineering,Research & Development,Female,Asian,30,86858.0,0.0,China,2017-05-22,2017-10-08,0.4,0,New
+E01525,Engineering Manager,Engineering,Research & Development,Male,Caucasian,53,116878.0,0.11,United States,1992-04-08,2024-01-29,31.8,1,Veteran
+E00416,Director,Engineering,Research & Development,Female,Latino,30,189702.0,0.28,Brazil,2016-05-22,2020-12-21,4.6,0,New
+E01194,Test Engineer,Engineering,Research & Development,Female,Caucasian,45,61773.0,0.0,United States,2013-04-22,2024-01-29,10.8,1,Intermediate
+E01388,Field Engineer,Engineering,Research & Development,Female,Latino,50,91763.0,0.0,United States,1997-10-23,2024-01-29,26.3,1,Veteran
+E02706,Automation Engineer,Engineering,Research & Development,Female,Asian,46,86538.0,0.0,China,2021-01-10,2024-01-29,3.1,1,New
+E01141,Quality Engineer,Engineering,Research & Development,Female,Black,27,95786.0,0.0,United States,2021-01-28,2024-01-29,3.0,1,New
+E01286,Development Engineer,Engineering,Research & Development,Male,Latino,47,99091.0,0.0,United States,1998-07-14,2024-01-29,25.6,1,Veteran
+E02031,Development Engineer,Engineering,Research & Development,Female,Caucasian,44,89695.0,0.0,United States,2009-09-04,2024-01-29,14.4,1,Intermediate
+E03268,Test Engineer,Engineering,Research & Development,Female,Latino,42,96023.0,0.0,United States,2017-11-23,2024-01-29,6.2,1,Intermediate
+E00119,Director,Engineering,Research & Development,Male,Latino,31,189290.0,0.22,Brazil,2020-08-26,2020-09-25,0.1,0,New
+E02378,Field Engineer,Engineering,Research & Development,Female,Caucasian,58,70189.0,0.0,United States,1995-10-27,2024-01-29,28.3,1,Veteran
+E03438,Automation Engineer,Engineering,Research & Development,Male,Latino,52,88272.0,0.0,Brazil,2020-07-10,2024-01-29,3.6,1,New
+E02148,Engineering Manager,Engineering,Research & Development,Male,Latino,54,106313.0,0.15,United States,2007-10-27,2024-01-29,16.3,1,Veteran
+E04222,Test Engineer,Engineering,Research & Development,Female,Asian,55,73248.0,0.0,United States,2013-09-08,2024-01-29,10.4,1,Intermediate
+E00422,Development Engineer,Engineering,Research & Development,Female,Latino,47,68488.0,0.0,United States,2015-08-29,2024-01-29,8.4,1,Intermediate
+E02914,Vice President,Engineering,Research & Development,Female,Caucasian,51,200246.0,0.34,United States,1996-06-14,2024-01-29,27.6,1,Veteran
+E01924,Director,Engineering,Research & Development,Female,Latino,59,150699.0,0.29,Brazil,2003-04-15,2024-01-29,20.8,1,Veteran
+E02693,Director,Engineering,Research & Development,Female,Latino,37,156277.0,0.22,Brazil,2008-03-21,2024-01-29,15.9,1,Veteran
+E03359,Field Engineer,Engineering,Research & Development,Female,Latino,30,87744.0,0.0,Brazil,2017-12-17,2024-01-29,6.1,1,Intermediate
+E01357,Engineering Manager,Engineering,Research & Development,Female,Caucasian,61,98110.0,0.13,United States,2010-01-15,2024-01-29,14.0,1,Intermediate
+E02417,Automation Engineer,Engineering,Research & Development,Female,Caucasian,46,91621.0,0.0,United States,2008-01-24,2024-01-29,16.0,1,Veteran
+E00553,Quality Engineer,Engineering,Research & Development,Female,Asian,50,79388.0,0.0,United States,2013-05-10,2019-08-04,6.2,0,Intermediate
+E00465,Test Engineer,Engineering,Research & Development,Male,Caucasian,62,63959.0,0.0,United States,2011-10-04,2024-01-29,12.3,1,Intermediate
+E00144,Controls Engineer,Engineering,Research & Development,Male,Asian,55,83378.0,0.0,China,2018-04-29,2024-01-29,5.8,1,Intermediate
+E03065,Quality Engineer,Engineering,Research & Development,Male,Latino,41,94658.0,0.0,United States,2012-01-21,2024-01-29,12.0,1,Intermediate
+E01377,Quality Engineer,Engineering,Research & Development,Male,Asian,55,89419.0,0.0,China,2011-04-30,2024-01-29,12.8,1,Intermediate
+E04004,Test Engineer,Engineering,Research & Development,Female,Asian,36,96757.0,0.0,United States,2018-12-14,2024-01-29,5.1,1,Intermediate
+E02856,Operations Engineer,Engineering,Research & Development,Female,Asian,30,77442.0,0.0,United States,2015-11-14,2024-01-29,8.2,1,Intermediate
+E01090,Quality Engineer,Engineering,Research & Development,Male,Asian,59,78006.0,0.0,United States,2009-12-23,2024-01-29,14.1,1,Intermediate
+E00276,Engineering Manager,Engineering,Research & Development,Female,Latino,37,87359.0,0.11,Brazil,2018-12-27,2024-01-29,5.1,1,Intermediate
+E03981,Test Engineer,Engineering,Research & Development,Female,Asian,63,67987.0,0.0,United States,2018-05-07,2024-01-29,5.7,1,Intermediate
+E04969,Operations Engineer,Engineering,Research & Development,Female,Asian,40,109680.0,0.0,China,2016-09-09,2024-01-29,7.4,1,Intermediate
+E04484,Quality Engineer,Engineering,Research & Development,Female,Asian,45,60017.0,0.0,United States,2015-04-23,2024-01-29,8.8,1,Intermediate
+E02649,Quality Engineer,Engineering,Research & Development,Male,Latino,27,64247.0,0.0,Brazil,2018-09-28,2024-01-29,5.3,1,Intermediate
+E03532,Engineering Manager,Engineering,Research & Development,Male,Latino,56,78938.0,0.14,United States,2018-09-20,2024-01-29,5.4,1,Intermediate
+E00952,Field Engineer,Engineering,Research & Development,Male,Caucasian,59,62605.0,0.0,United States,1996-03-29,2024-01-29,27.9,1,Veteran
+E04464,Engineering Manager,Engineering,Research & Development,Male,Asian,60,106079.0,0.14,United States,2018-02-15,2021-04-09,3.1,0,New
+E02710,Engineering Manager,Engineering,Research & Development,Male,Asian,57,111299.0,0.12,United States,1992-01-09,2024-01-29,32.1,1,Veteran
+E03457,Controls Engineer,Engineering,Research & Development,Female,Asian,59,119699.0,0.0,China,2001-04-09,2024-01-29,22.8,1,Veteran
+E00956,Development Engineer,Engineering,Research & Development,Female,Asian,37,80659.0,0.0,United States,2020-03-08,2024-01-29,3.9,1,New
+E03344,Controls Engineer,Engineering,Speciality Products,Female,Caucasian,27,109851.0,0.0,United States,2021-10-21,2024-01-29,2.3,1,New
+E00154,Vice President,Engineering,Speciality Products,Male,Asian,43,246231.0,0.31,United States,2004-06-07,2024-01-29,19.7,1,Veteran
+E03343,Engineering Manager,Engineering,Speciality Products,Male,Asian,64,99354.0,0.12,China,1996-12-04,2024-01-29,27.2,1,Veteran
+E00386,Quality Engineer,Engineering,Speciality Products,Male,Black,45,70505.0,0.0,United States,2005-02-05,2024-01-29,19.0,1,Veteran
+E04959,Development Engineer,Engineering,Speciality Products,Male,Black,56,62575.0,0.0,United States,2015-01-27,2024-01-29,9.0,1,Intermediate
+E00527,Field Engineer,Engineering,Speciality Products,Male,Asian,27,71864.0,0.0,China,2020-04-16,2024-01-29,3.8,1,New
+E01713,Field Engineer,Engineering,Speciality Products,Male,Latino,46,96997.0,0.0,Brazil,1999-06-20,2024-01-29,24.6,1,Veteran
+E02939,Quality Engineer,Engineering,Speciality Products,Male,Asian,61,80950.0,0.0,China,2002-11-22,2024-01-29,21.2,1,Veteran
+E04458,Field Engineer,Engineering,Speciality Products,Male,Caucasian,30,88758.0,0.0,United States,2021-10-02,2024-01-29,2.3,1,New
+E01501,Engineering Manager,Engineering,Speciality Products,Male,Asian,34,110054.0,0.15,United States,2017-11-16,2024-01-29,6.2,1,Intermediate
+E02942,Director,Engineering,Speciality Products,Male,Caucasian,30,184368.0,0.29,United States,2018-05-20,2024-01-29,5.7,1,Intermediate
+E02421,Director,Engineering,Speciality Products,Male,Asian,45,183161.0,0.22,United States,2014-08-28,2024-01-29,9.4,1,Intermediate
+E03615,Operations Engineer,Engineering,Speciality Products,Male,Caucasian,51,95639.0,0.0,United States,1999-10-09,2024-01-29,24.3,1,Veteran
+E01271,Director,Engineering,Speciality Products,Male,Latino,64,169509.0,0.18,Brazil,2017-08-25,2024-01-29,6.4,1,Intermediate
+E03664,Engineering Manager,Engineering,Speciality Products,Female,Latino,45,113873.0,0.11,Brazil,2014-03-14,2024-01-29,9.9,1,Intermediate
+E04332,Automation Engineer,Engineering,Speciality Products,Male,Caucasian,38,78237.0,0.0,United States,2010-07-01,2024-01-29,13.6,1,Intermediate
+E02944,Vice President,Engineering,Speciality Products,Male,Asian,47,222941.0,0.39,China,2012-06-11,2024-01-29,11.6,1,Intermediate
+E02838,Engineering Manager,Engineering,Speciality Products,Female,Asian,65,83756.0,0.14,China,2006-03-16,2024-01-29,17.9,1,Veteran
+E03347,Development Engineer,Engineering,Speciality Products,Female,Asian,35,60132.0,0.0,China,2017-02-10,2024-01-29,7.0,1,Intermediate
+E02284,Field Engineer,Engineering,Speciality Products,Female,Latino,36,85870.0,0.0,Brazil,2016-03-14,2024-01-29,7.9,1,Intermediate
+E04345,Engineering Manager,Engineering,Speciality Products,Female,Caucasian,64,109456.0,0.1,United States,1994-06-20,2024-01-29,29.6,1,Veteran
+E03750,Director,Engineering,Speciality Products,Male,Asian,64,158787.0,0.18,China,1995-08-29,2024-01-29,28.4,1,Veteran
+E04811,Field Engineer,Engineering,Speciality Products,Female,Latino,59,69578.0,0.0,Brazil,2014-09-16,2024-01-29,9.4,1,Intermediate
+E03404,Field Engineer,Engineering,Speciality Products,Female,Latino,42,65507.0,0.0,Brazil,2021-02-05,2024-01-29,3.0,1,New
+E02473,Quality Engineer,Engineering,Speciality Products,Male,Asian,29,91782.0,0.0,China,2021-11-15,2024-01-29,2.2,1,New
+E01167,Automation Engineer,Engineering,Speciality Products,Female,Caucasian,28,115854.0,0.0,United States,2018-11-14,2024-01-29,5.2,1,Intermediate
+E02179,Controls Engineer,Engineering,Speciality Products,Female,Caucasian,48,96693.0,0.0,United States,2014-09-25,2024-01-29,9.4,1,Intermediate
+E04242,Test Engineer,Engineering,Speciality Products,Female,Latino,48,82907.0,0.0,United States,2009-06-27,2024-01-29,14.6,1,Intermediate
+E03114,Development Engineer,Engineering,Speciality Products,Male,Latino,62,98230.0,0.0,United States,1994-10-09,2024-01-29,29.3,1,Veteran
+E02477,Director,Engineering,Speciality Products,Female,Asian,46,151853.0,0.16,China,2020-10-21,2024-01-29,3.3,1,New
+E03160,Quality Engineer,Engineering,Speciality Products,Male,Latino,54,96441.0,0.0,Brazil,2012-04-29,2024-01-29,11.8,1,Intermediate
+E03919,Engineering Manager,Engineering,Speciality Products,Male,Asian,46,114250.0,0.14,China,2011-10-20,2024-01-29,12.3,1,Intermediate
+E01820,Quality Engineer,Engineering,Speciality Products,Male,Black,27,70110.0,0.0,United States,2019-05-28,2021-01-07,1.6,0,New
+E04641,Director,Engineering,Speciality Products,Female,Black,45,187205.0,0.24,United States,2018-04-22,2022-06-20,4.2,0,New
+E01966,Field Engineer,Engineering,Speciality Products,Male,Caucasian,45,87292.0,0.0,United States,2015-11-21,2024-01-29,8.2,1,Intermediate
+E03364,Development Engineer,Engineering,Speciality Products,Female,Asian,51,87036.0,0.0,China,2017-02-11,2024-01-29,7.0,1,Intermediate
+E04699,Development Engineer,Engineering,Speciality Products,Female,Asian,48,65340.0,0.0,China,2012-05-03,2018-05-09,6.0,0,Intermediate
+E00955,Development Engineer,Engineering,Speciality Products,Male,Latino,54,94407.0,0.0,Brazil,2012-11-24,2024-01-29,11.2,1,Intermediate
+E04683,Director,Engineering,Speciality Products,Male,Latino,40,187187.0,0.18,Brazil,2020-02-07,2024-01-29,4.0,1,New
+E03834,Director,Engineering,Speciality Products,Male,Caucasian,41,155926.0,0.24,United States,2007-03-15,2008-05-30,1.2,0,New
+E04926,Field Engineer,Engineering,Speciality Products,Female,Latino,52,97398.0,0.0,Brazil,2008-03-25,2024-01-29,15.9,1,Veteran
+E02024,Operations Engineer,Engineering,Speciality Products,Female,Latino,29,123588.0,0.0,Brazil,2020-09-25,2024-01-29,3.3,1,New
+E03310,Director,Engineering,Speciality Products,Male,Caucasian,45,153767.0,0.27,United States,2010-11-29,2024-01-29,13.2,1,Intermediate
+E04751,Operations Engineer,Engineering,Speciality Products,Male,Caucasian,54,113982.0,0.0,United States,2010-12-05,2024-01-29,13.2,1,Intermediate
+E04163,Engineering Manager,Engineering,Speciality Products,Male,Latino,32,102298.0,0.13,Brazil,2021-10-09,2024-01-29,2.3,1,New
+E02696,Development Engineer,Engineering,Speciality Products,Male,Asian,25,67275.0,0.0,United States,2021-07-08,2024-01-29,2.6,1,New
+E02661,Controls Engineer,Engineering,Speciality Products,Female,Asian,37,124827.0,0.0,China,2013-02-13,2024-01-29,11.0,1,Intermediate
+E03824,Analyst,Finance,Corporate,Female,Black,36,48906.0,0.0,United States,2021-08-27,2024-01-29,2.4,1,New
+E00254,Analyst II,Finance,Corporate,Male,Latino,34,57008.0,0.0,United States,2015-06-27,2024-01-29,8.6,1,Intermediate
+E00972,Analyst II,Finance,Corporate,Female,Latino,26,59817.0,0.0,Brazil,2019-04-23,2024-01-29,4.8,1,New
+E02872,Manager,Finance,Corporate,Male,Asian,39,103504.0,0.07,China,2010-01-14,2024-01-29,14.0,1,Intermediate
+E00013,Analyst,Finance,Corporate,Female,Asian,52,55859.0,0.0,China,2019-02-19,2024-01-29,4.9,1,New
+E01095,Vice President,Finance,Corporate,Female,Asian,37,225558.0,0.33,China,2011-12-06,2024-01-29,12.2,1,Intermediate
+E04130,Sr. Manager,Finance,Corporate,Male,Latino,45,144754.0,0.15,United States,2021-12-24,2024-01-29,2.1,1,New
+E00626,Sr. Analyst,Finance,Corporate,Female,Caucasian,28,95045.0,0.0,United States,2020-09-04,2024-01-29,3.4,1,New
+E03904,Sr. Analyst,Finance,Corporate,Male,Latino,46,86061.0,0.0,Brazil,2013-01-20,2024-01-29,11.0,1,Intermediate
+E00842,Vice President,Finance,Corporate,Male,Latino,50,247939.0,0.35,Brazil,2004-01-18,2024-01-29,20.0,1,Veteran
+E04103,Vice President,Finance,Corporate,Female,Latino,27,255369.0,0.33,Brazil,2021-12-15,2024-01-29,2.1,1,New
+E04136,Analyst II,Finance,Corporate,Male,Asian,52,74449.0,0.0,China,2017-09-14,2024-01-29,6.4,1,Intermediate
+E04601,Analyst,Finance,Corporate,Female,Latino,36,43363.0,0.0,United States,2009-06-30,2024-01-29,14.6,1,Intermediate
+E01977,Sr. Manager,Finance,Corporate,Female,Asian,48,125730.0,0.11,China,2001-09-10,2024-01-29,22.4,1,Veteran
+E04749,Sr. Manager,Finance,Corporate,Female,Asian,41,155004.0,0.12,United States,2004-03-14,2024-01-29,19.9,1,Veteran
+E01981,Analyst,Finance,Corporate,Female,Caucasian,63,46081.0,0.0,United States,2012-03-16,2024-01-29,11.9,1,Intermediate
+E03226,Vice President,Finance,Corporate,Male,Caucasian,28,250767.0,0.38,United States,2019-06-22,2024-01-29,4.6,1,New
+E04448,Sr. Analyst,Finance,Corporate,Male,Latino,34,95499.0,0.0,Brazil,2014-09-04,2017-08-11,2.9,0,New
+E01870,Director,Finance,Corporate,Male,Asian,58,162038.0,0.24,China,2007-10-12,2024-01-29,16.3,1,Veteran
+E02604,Sr. Manager,Finance,Corporate,Female,Black,59,139208.0,0.11,United States,2018-10-27,2024-01-29,5.3,1,Intermediate
+E03720,Manager,Finance,Corporate,Female,Caucasian,48,102847.0,0.05,United States,1999-04-22,2024-01-29,24.8,1,Veteran
+E00711,Sr. Manager,Finance,Corporate,Female,Asian,43,153492.0,0.11,United States,2006-10-15,2024-01-29,17.3,1,Veteran
+E01668,Director,Finance,Corporate,Female,Asian,53,179494.0,0.2,China,2002-02-17,2024-01-29,22.0,1,Veteran
+E02088,Sr. Manager,Finance,Corporate,Female,Latino,55,144986.0,0.12,United States,2017-02-06,2024-01-29,7.0,1,Intermediate
+E02687,Vice President,Finance,Corporate,Female,Caucasian,36,202323.0,0.39,United States,2014-01-11,2024-01-29,10.1,1,Intermediate
+E02899,Sr. Manager,Finance,Corporate,Male,Latino,44,126277.0,0.13,Brazil,2007-08-11,2024-01-29,16.5,1,Veteran
+E04005,Sr. Analyst,Finance,Corporate,Male,Asian,49,80700.0,0.0,United States,2019-06-07,2024-01-29,4.6,1,New
+E04221,Analyst II,Finance,Corporate,Male,Caucasian,60,58671.0,0.0,United States,2007-08-16,2024-01-29,16.5,1,Veteran
+E00440,Vice President,Finance,Corporate,Female,Asian,54,183239.0,0.32,United States,2007-09-05,2024-01-29,16.4,1,Veteran
+E00206,Manager,Finance,Corporate,Male,Asian,52,122890.0,0.07,China,2009-10-05,2024-01-29,14.3,1,Intermediate
+E02639,Analyst,Finance,Corporate,Male,Asian,37,45369.0,0.0,China,2015-11-09,2024-01-29,8.2,1,Intermediate
+E00342,Manager,Finance,Corporate,Male,Asian,63,122487.0,0.08,China,2004-04-19,2024-01-29,19.8,1,Veteran
+E03055,Vice President,Finance,Corporate,Male,Latino,29,199504.0,0.3,United States,2018-12-05,2024-01-29,5.2,1,Intermediate
+E01337,Director,Finance,Corporate,Male,Caucasian,41,174415.0,0.23,United States,2019-05-15,2024-01-29,4.7,1,New
+E00225,Director,Finance,Corporate,Male,Latino,31,156931.0,0.28,United States,2017-08-10,2024-01-29,6.5,1,Intermediate
+E03106,Vice President,Finance,Corporate,Male,Caucasian,36,238236.0,0.31,United States,2009-01-17,2024-01-29,15.0,1,Intermediate
+E01350,Director,Finance,Corporate,Female,Caucasian,64,153253.0,0.24,United States,2012-12-21,2024-01-29,11.1,1,Intermediate
+E03718,Manager,Finance,Corporate,Female,Asian,61,103096.0,0.07,China,2009-10-06,2024-01-29,14.3,1,Intermediate
+E03349,Director,Finance,Corporate,Male,Asian,60,158898.0,0.18,United States,2017-06-05,2024-01-29,6.7,1,Intermediate
+E01639,Sr. Analyst,Finance,Manufacturing,Male,Asian,55,95409.0,0.0,United States,1995-11-20,2024-01-29,28.2,1,Veteran
+E04332,Analyst,Finance,Manufacturing,Male,Black,25,41336.0,0.0,United States,2020-05-16,2021-05-20,1.0,0,New
+E00402,Analyst,Finance,Manufacturing,Male,Latino,65,55499.0,0.0,Brazil,2004-05-16,2024-01-29,19.7,1,Veteran
+E02166,Sr. Manager,Finance,Manufacturing,Male,Latino,60,141899.0,0.15,United States,2015-09-23,2024-01-29,8.4,1,Intermediate
+E04379,Sr. Analyst,Finance,Manufacturing,Female,Latino,60,71699.0,0.0,Brazil,2007-02-24,2024-01-29,16.9,1,Veteran
+E00941,Analyst,Finance,Manufacturing,Female,Asian,55,50475.0,0.0,United States,2002-03-28,2024-01-29,21.9,1,Veteran
+E03864,Analyst,Finance,Manufacturing,Female,Caucasian,51,53799.0,0.0,United States,2017-01-18,2024-01-29,7.0,1,Intermediate
+E03252,Manager,Finance,Manufacturing,Male,Asian,64,122753.0,0.09,China,1998-07-20,2024-01-29,25.5,1,Veteran
+E02810,Sr. Manager,Finance,Manufacturing,Female,Latino,37,157474.0,0.11,Brazil,2013-02-24,2024-01-29,10.9,1,Intermediate
+E04072,Vice President,Finance,Manufacturing,Female,Caucasian,48,231567.0,0.36,United States,2018-06-02,2024-01-29,5.7,1,Intermediate
+E00399,Analyst II,Finance,Manufacturing,Male,Caucasian,30,54714.0,0.0,United States,2019-03-18,2024-01-29,4.9,1,New
+E04927,Sr. Analyst,Finance,Manufacturing,Male,Caucasian,55,77396.0,0.0,United States,2002-07-19,2024-01-29,21.5,1,Veteran
+E01262,Manager,Finance,Manufacturing,Male,Asian,50,106437.0,0.07,China,2018-05-19,2024-01-29,5.7,1,Intermediate
+E01075,Analyst II,Finance,Manufacturing,Male,Latino,46,64364.0,0.0,Brazil,2015-05-05,2024-01-29,8.7,1,Intermediate
+E03393,Sr. Manager,Finance,Manufacturing,Male,Latino,46,134881.0,0.15,Brazil,2010-07-19,2024-01-29,13.5,1,Intermediate
+E01639,Analyst,Finance,Manufacturing,Female,Caucasian,55,48266.0,0.0,United States,2021-04-16,2024-01-29,2.8,1,New
+E02628,Analyst II,Finance,Manufacturing,Female,Caucasian,41,50685.0,0.0,United States,2007-01-09,2024-01-29,17.1,1,Veteran
+E02665,Sr. Manager,Finance,Manufacturing,Female,Black,33,131652.0,0.11,United States,2019-10-25,2024-01-29,4.3,1,New
+E03465,Analyst II,Finance,Manufacturing,Female,Asian,45,71454.0,0.0,China,2016-12-07,2024-01-29,7.1,1,Intermediate
+E00091,Analyst II,Finance,Manufacturing,Female,Asian,48,55760.0,0.0,United States,2003-06-24,2024-01-29,20.6,1,Veteran
+E02249,Manager,Finance,Manufacturing,Female,Caucasian,37,103524.0,0.09,United States,2020-04-14,2024-01-29,3.8,1,New
+E02375,Sr. Manager,Finance,Manufacturing,Male,Asian,63,128703.0,0.13,United States,2002-02-08,2024-01-29,22.0,1,Veteran
+E02259,Sr. Analyst,Finance,Manufacturing,Female,Asian,35,74779.0,0.0,United States,2019-03-18,2024-01-29,4.9,1,New
+E01832,Analyst,Finance,Manufacturing,Male,Asian,56,41561.0,0.0,United States,2006-05-10,2024-01-29,17.7,1,Veteran
+E04035,Sr. Manager,Finance,Manufacturing,Female,Asian,42,150034.0,0.12,China,2011-03-18,2024-01-29,12.9,1,Intermediate
+E01338,Manager,Finance,Manufacturing,Male,Caucasian,32,126671.0,0.09,United States,2020-04-15,2024-01-29,3.8,1,New
+E02684,Analyst II,Finance,Manufacturing,Male,Latino,39,62861.0,0.0,United States,2008-09-17,2024-01-29,15.4,1,Veteran
+E04415,Manager,Finance,Manufacturing,Male,Asian,52,116527.0,0.07,United States,1999-12-29,2024-01-29,24.1,1,Veteran
+E04239,Sr. Manager,Finance,Research & Development,Female,Asian,51,146742.0,0.1,China,2021-06-10,2024-01-29,2.6,1,New
+E00163,Director,Finance,Research & Development,Female,Black,65,175837.0,0.2,United States,2002-03-04,2024-01-29,21.9,1,Veteran
+E03247,Analyst,Finance,Research & Development,Female,Caucasian,27,49011.0,0.0,United States,2018-05-06,2024-01-29,5.7,1,Intermediate
+E00691,Director,Finance,Research & Development,Male,Asian,42,166599.0,0.26,United States,2003-01-15,2024-01-29,21.1,1,Veteran
+E04449,Analyst II,Finance,Research & Development,Male,Asian,55,74552.0,0.0,China,2014-03-16,2024-01-29,9.9,1,Intermediate
+E00187,Director,Finance,Research & Development,Male,Asian,64,189933.0,0.23,United States,1996-05-02,2024-01-29,27.8,1,Veteran
+E03096,Director,Finance,Research & Development,Female,Asian,63,155320.0,0.17,China,2000-10-27,2024-01-29,23.3,1,Veteran
+E04037,Sr. Manager,Finance,Research & Development,Male,Latino,31,145846.0,0.15,Brazil,2015-09-19,2024-01-29,8.4,1,Intermediate
+E00501,Analyst II,Finance,Research & Development,Female,Asian,55,64494.0,0.0,United States,2007-12-02,2024-01-29,16.2,1,Veteran
+E02108,Sr. Manager,Finance,Research & Development,Female,Caucasian,51,150758.0,0.13,United States,2006-04-28,2007-08-16,1.3,0,New
+E02769,Sr. Manager,Finance,Research & Development,Female,Latino,39,122829.0,0.11,United States,2019-10-18,2024-01-29,4.3,1,New
+E02965,Sr. Manager,Finance,Research & Development,Male,Asian,43,146140.0,0.15,United States,2021-04-17,2024-01-29,2.8,1,New
+E02895,Director,Finance,Research & Development,Female,Latino,65,170221.0,0.15,Brazil,2008-10-07,2024-01-29,15.3,1,Veteran
+E01845,Manager,Finance,Research & Development,Male,Latino,54,108268.0,0.09,Brazil,1998-04-28,2004-05-15,6.1,0,Intermediate
+E02706,Sr. Manager,Finance,Research & Development,Female,Latino,45,149761.0,0.12,United States,2016-01-10,2024-01-29,8.1,1,Intermediate
+E03947,Vice President,Finance,Research & Development,Male,Latino,36,223404.0,0.32,United States,2018-08-18,2024-01-29,5.5,1,Intermediate
+E01006,Vice President,Finance,Research & Development,Female,Asian,25,210708.0,0.33,United States,2021-11-15,2024-01-29,2.2,1,New
+E01193,Director,Finance,Research & Development,Female,Asian,27,153628.0,0.29,China,2020-05-26,2020-12-12,0.5,0,New
+E04088,Vice President,Finance,Research & Development,Male,Asian,52,216999.0,0.37,United States,1997-05-26,2024-01-29,26.7,1,Veteran
+E00324,Manager,Finance,Research & Development,Female,Asian,37,124928.0,0.06,China,2016-08-23,2024-01-29,7.4,1,Intermediate
+E02033,Director,Finance,Research & Development,Female,Asian,25,186870.0,0.2,China,2021-04-17,2024-01-29,2.8,1,New
+E01844,Analyst,Finance,Research & Development,Male,Asian,46,55894.0,0.0,United States,2011-04-24,2024-01-29,12.8,1,Intermediate
+E01947,Analyst II,Finance,Research & Development,Female,Caucasian,30,52697.0,0.0,United States,2015-03-05,2024-01-29,8.9,1,Intermediate
+E02968,Analyst II,Finance,Research & Development,Female,Latino,25,56565.0,0.0,Brazil,2020-07-12,2024-01-29,3.6,1,New
+E00577,Analyst II,Finance,Research & Development,Female,Latino,45,58586.0,0.0,Brazil,2012-08-06,2024-01-29,11.5,1,Intermediate
+E02572,Director,Finance,Speciality Products,Female,Caucasian,50,163099.0,0.2,United States,2006-10-26,2024-01-29,17.3,1,Veteran
+E03838,Sr. Analyst,Finance,Speciality Products,Female,Caucasian,34,77203.0,0.0,United States,2018-06-13,2024-01-29,5.6,1,Intermediate
+E01499,Director,Finance,Speciality Products,Female,Latino,37,165927.0,0.2,United States,2019-01-28,2024-01-29,5.0,1,New
+E00595,Sr. Manager,Finance,Speciality Products,Female,Asian,33,140402.0,0.15,China,2018-04-21,2024-01-29,5.8,1,Intermediate
+E04568,Vice President,Finance,Speciality Products,Female,Asian,54,247022.0,0.3,China,2011-07-10,2024-01-29,12.6,1,Intermediate
+E03612,Sr. Manager,Finance,Speciality Products,Male,Black,64,159571.0,0.1,United States,2013-06-29,2024-01-29,10.6,1,Intermediate
+E00417,Analyst II,Finance,Speciality Products,Female,Latino,39,71531.0,0.0,United States,2006-04-06,2024-01-29,17.8,1,Veteran
+E03907,Vice President,Finance,Speciality Products,Female,Caucasian,32,190253.0,0.33,United States,2018-01-02,2024-01-29,6.1,1,Intermediate
+E01546,Vice President,Finance,Speciality Products,Female,Asian,43,249686.0,0.31,China,2005-07-31,2024-01-29,18.5,1,Veteran
+E01070,Manager,Finance,Speciality Products,Male,Black,51,125375.0,0.09,United States,1995-02-16,2024-01-29,29.0,1,Veteran
+E01896,Director,Finance,Speciality Products,Male,Caucasian,25,168014.0,0.27,United States,2020-01-14,2021-07-27,1.5,0,New
+E02147,Manager,Finance,Speciality Products,Female,Latino,55,111038.0,0.05,Brazil,2010-04-29,2024-01-29,13.8,1,Intermediate
+E00834,Analyst II,Finance,Speciality Products,Female,Latino,53,58605.0,0.0,United States,2002-02-09,2024-01-29,22.0,1,Veteran
+E01711,Analyst II,Finance,Speciality Products,Male,Caucasian,31,74215.0,0.0,United States,2021-04-22,2024-01-29,2.8,1,New
+E03799,Sr. Analyst,Finance,Speciality Products,Female,Asian,63,89523.0,0.0,United States,1999-12-31,2024-01-29,24.1,1,Veteran
+E01194,Analyst II,Finance,Speciality Products,Female,Caucasian,52,61026.0,0.0,United States,2019-12-20,2024-01-29,4.1,1,New
+E00013,Sr. Analyst,Finance,Speciality Products,Female,Asian,33,94876.0,0.0,United States,2015-10-08,2024-01-29,8.3,1,Intermediate
+E02857,Sr. Manager,Finance,Speciality Products,Male,Latino,44,130133.0,0.15,United States,2019-08-08,2022-05-18,2.8,0,New
+E02748,Director,Finance,Speciality Products,Female,Asian,34,184960.0,0.18,United States,2020-07-20,2024-01-29,3.5,1,New
+E00605,Manager,Finance,Speciality Products,Female,Black,61,110302.0,0.06,United States,2010-04-25,2024-01-29,13.8,1,Intermediate
+E03694,Vice President,Finance,Speciality Products,Female,Black,38,223805.0,0.36,United States,2018-11-09,2024-01-29,5.2,1,Intermediate
+E01638,Analyst,Finance,Speciality Products,Female,Asian,62,49738.0,0.0,China,2002-09-20,2024-01-29,21.4,1,Veteran
+E02907,Sr. Manager,Finance,Speciality Products,Male,Asian,44,142878.0,0.12,United States,2010-04-06,2024-01-29,13.8,1,Intermediate
+E00518,Manager,Finance,Speciality Products,Female,Latino,51,108221.0,0.05,Brazil,2013-06-14,2024-01-29,10.6,1,Intermediate
+E00287,Manager,Finance,Speciality Products,Male,Caucasian,60,106578.0,0.09,United States,2010-06-15,2024-01-29,13.6,1,Intermediate
+E01755,Sr. Manager,Finance,Speciality Products,Female,Asian,37,131183.0,0.14,China,2011-04-24,2016-03-16,4.9,0,New
+E01909,Analyst,Finance,Speciality Products,Female,Asian,44,47387.0,0.0,China,2010-05-31,2018-01-08,7.6,0,Intermediate
+E02521,Sr. Analyst,Finance,Speciality Products,Female,Asian,33,95960.0,0.0,China,2012-01-28,2024-01-29,12.0,1,Intermediate
+E03816,Director,Human Resources,Corporate,Female,Asian,27,199041.0,0.16,China,2021-02-23,2024-01-29,2.9,1,New
+E02017,Director,Human Resources,Corporate,Male,Caucasian,50,174895.0,0.15,United States,1998-07-22,2024-01-29,25.5,1,Veteran
+E00130,Vice President,Human Resources,Corporate,Female,Asian,61,196951.0,0.33,China,2017-03-10,2024-01-29,6.9,1,Intermediate
+E00078,HRIS Analyst,Human Resources,Corporate,Female,Latino,31,72235.0,0.0,Brazil,2021-04-11,2024-01-29,2.8,1,New
+E02980,Director,Human Resources,Corporate,Female,Asian,57,176324.0,0.23,China,2016-10-24,2024-01-29,7.3,1,Intermediate
+E03325,HRIS Analyst,Human Resources,Corporate,Male,Caucasian,62,50825.0,0.0,United States,2004-10-11,2024-01-29,19.3,1,Veteran
+E04029,Manager,Human Resources,Corporate,Male,Latino,46,102167.0,0.06,Brazil,2011-09-24,2024-01-29,12.4,1,Intermediate
+E02599,Vice President,Human Resources,Corporate,Male,Asian,31,250953.0,0.34,United States,2015-09-03,2024-01-29,8.4,1,Intermediate
+E03490,Sr. Manager,Human Resources,Corporate,Male,Latino,38,127801.0,0.15,United States,2009-09-27,2024-01-29,14.3,1,Intermediate
+E04662,Sr. Manager,Human Resources,Corporate,Female,Caucasian,60,150855.0,0.11,United States,2008-10-18,2024-01-29,15.3,1,Veteran
+E04795,Vice President,Human Resources,Corporate,Female,Black,28,208210.0,0.3,United States,2018-01-21,2024-01-29,6.0,1,Intermediate
+E02103,HRIS Analyst,Human Resources,Corporate,Male,Asian,31,71755.0,0.0,China,2017-09-24,2024-01-29,6.4,1,Intermediate
+E04799,Sr. Business Partner,Human Resources,Corporate,Female,Caucasian,30,88663.0,0.0,United States,2017-01-26,2024-01-29,7.0,1,Intermediate
+E01407,Sr. Manager,Human Resources,Corporate,Female,Latino,29,141555.0,0.11,Brazil,2020-07-13,2024-01-29,3.5,1,New
+E02884,Director,Human Resources,Corporate,Male,Caucasian,60,155788.0,0.17,United States,2015-04-14,2024-01-29,8.8,1,Intermediate
+E03471,Manager,Human Resources,Corporate,Female,Latino,42,101143.0,0.06,United States,2017-11-19,2024-01-29,6.2,1,Intermediate
+E02066,Manager,Human Resources,Corporate,Male,Asian,48,110565.0,0.09,China,2015-07-16,2024-01-29,8.5,1,Intermediate
+E00810,Vice President,Human Resources,Corporate,Male,Latino,62,234594.0,0.33,United States,2002-08-16,2024-01-29,21.5,1,Veteran
+E00276,Manager,Human Resources,Corporate,Male,Caucasian,45,109883.0,0.07,United States,2012-07-09,2024-01-29,11.6,1,Intermediate
+E00676,Manager,Human Resources,Corporate,Male,Asian,41,126950.0,0.1,United States,2019-02-06,2024-01-29,5.0,1,New
+E01286,Sr. Business Partner,Human Resources,Corporate,Male,Caucasian,46,75579.0,0.0,United States,2007-02-20,2024-01-29,17.0,1,Veteran
+E01111,Sr. Manager,Human Resources,Corporate,Male,Asian,45,145093.0,0.12,United States,2010-05-07,2024-01-29,13.7,1,Intermediate
+E00647,HRIS Analyst,Human Resources,Corporate,Female,Asian,44,63705.0,0.0,United States,2006-02-23,2024-01-29,17.9,1,Veteran
+E02554,Vice President,Human Resources,Corporate,Male,Latino,44,181247.0,0.33,Brazil,2007-09-10,2024-01-29,16.4,1,Veteran
+E02561,Director,Human Resources,Corporate,Female,Latino,53,151246.0,0.21,Brazil,2006-07-21,2024-01-29,17.5,1,Veteran
+E02310,Vice President,Human Resources,Corporate,Male,Black,45,190512.0,0.32,United States,2010-12-12,2024-01-29,13.1,1,Intermediate
+E00591,Sr. Manager,Human Resources,Manufacturing,Female,Asian,36,157333.0,0.15,United States,2009-02-11,2024-01-29,15.0,1,Intermediate
+E00530,Manager,Human Resources,Manufacturing,Male,Caucasian,59,105086.0,0.09,United States,1999-03-14,2024-01-29,24.9,1,Veteran
+E01848,Business Partner,Human Resources,Manufacturing,Female,Black,46,59067.0,0.0,United States,2008-08-21,2024-01-29,15.4,1,Veteran
+E01516,Business Partner,Human Resources,Manufacturing,Female,Asian,45,48345.0,0.0,China,2003-12-17,2024-01-29,20.1,1,Veteran
+E01234,Director,Human Resources,Manufacturing,Male,Asian,42,152214.0,0.3,China,2014-01-16,2024-01-29,10.0,1,Intermediate
+E00128,Director,Human Resources,Manufacturing,Female,Latino,54,176294.0,0.28,United States,2018-01-22,2024-01-29,6.0,1,Intermediate
+E03737,Vice President,Human Resources,Manufacturing,Female,Asian,49,211291.0,0.37,China,2003-02-28,2024-01-29,20.9,1,Veteran
+E04682,Manager,Human Resources,Manufacturing,Male,Asian,55,125936.0,0.08,China,1995-11-16,2024-01-29,28.2,1,Veteran
+E00672,Sr. Business Partner,Human Resources,Manufacturing,Female,Latino,45,93840.0,0.0,Brazil,2007-12-21,2024-01-29,16.1,1,Veteran
+E02489,Sr. Business Partner,Human Resources,Manufacturing,Male,Caucasian,33,92610.0,0.0,United States,2017-08-04,2024-01-29,6.5,1,Intermediate
+E04167,Sr. Business Partner,Human Resources,Manufacturing,Male,Latino,48,87158.0,0.0,Brazil,2005-04-12,2024-01-29,18.8,1,Veteran
+E01412,Sr. Manager,Human Resources,Manufacturing,Female,Black,55,142318.0,0.14,United States,2004-11-10,2024-01-29,19.2,1,Veteran
+E04386,Business Partner,Human Resources,Manufacturing,Male,Black,41,49186.0,0.0,United States,2004-08-20,2008-06-17,3.8,0,New
+E04348,Manager,Human Resources,Manufacturing,Female,Caucasian,31,104162.0,0.07,United States,2021-01-18,2024-01-29,3.0,1,New
+E02744,HRIS Analyst,Human Resources,Manufacturing,Male,Latino,31,73854.0,0.0,United States,2015-12-09,2024-01-29,8.1,1,Intermediate
+E04590,HRIS Analyst,Human Resources,Manufacturing,Male,Caucasian,49,57606.0,0.0,United States,2001-03-29,2024-01-29,22.9,1,Veteran
+E00207,Vice President,Human Resources,Manufacturing,Female,Asian,52,187048.0,0.32,China,2012-07-23,2024-01-29,11.5,1,Intermediate
+E02044,Business Partner,Human Resources,Manufacturing,Female,Black,42,47071.0,0.0,United States,2020-09-18,2024-01-29,3.4,1,New
+E01118,Manager,Human Resources,Manufacturing,Male,Asian,42,114242.0,0.08,United States,2009-12-12,2024-01-29,14.1,1,Intermediate
+E00403,Business Partner,Human Resources,Manufacturing,Female,Latino,58,43001.0,0.0,United States,2010-10-12,2024-01-29,13.3,1,Intermediate
+E04358,Business Partner,Human Resources,Manufacturing,Male,Latino,34,52200.0,0.0,United States,2015-08-03,2024-01-29,8.5,1,Intermediate
+E00364,Director,Human Resources,Manufacturing,Male,Caucasian,50,172180.0,0.3,United States,2021-10-17,2024-01-29,2.3,1,New
+E03889,Manager,Human Resources,Manufacturing,Male,Latino,34,113909.0,0.06,Brazil,2013-08-13,2024-01-29,10.5,1,Intermediate
+E03097,HRIS Analyst,Human Resources,Manufacturing,Male,Black,45,51983.0,0.0,United States,2015-12-19,2024-01-29,8.1,1,Intermediate
+E01714,HRIS Analyst,Human Resources,Manufacturing,Female,Asian,44,53301.0,0.0,United States,2009-01-28,2024-01-29,15.0,1,Intermediate
+E00717,Business Partner,Human Resources,Manufacturing,Female,Latino,45,51404.0,0.0,Brazil,2005-10-14,2009-12-06,4.1,0,New
+E03528,Sr. Manager,Human Resources,Manufacturing,Male,Asian,62,138808.0,0.15,China,2017-11-22,2024-01-29,6.2,1,Intermediate
+E01268,Sr. Business Partner,Human Resources,Manufacturing,Female,Asian,63,72805.0,0.0,China,2007-05-02,2024-01-29,16.8,1,Veteran
+E01209,Manager,Human Resources,Manufacturing,Male,Caucasian,64,104668.0,0.08,United States,1992-12-26,2024-01-29,31.1,1,Veteran
+E00951,Business Partner,Human Resources,Manufacturing,Female,Asian,25,47974.0,0.0,China,2021-03-15,2024-01-29,2.9,1,New
+E04564,Sr. Manager,Human Resources,Manufacturing,Male,Latino,41,129903.0,0.13,Brazil,2015-12-27,2024-01-29,8.1,1,Intermediate
+E01188,Sr. Manager,Human Resources,Manufacturing,Male,Caucasian,42,131179.0,0.15,United States,2013-04-18,2024-01-29,10.8,1,Intermediate
+E04920,Sr. Manager,Human Resources,Manufacturing,Female,Asian,32,154956.0,0.13,United States,2017-04-14,2024-01-29,6.8,1,Intermediate
+E03362,HRIS Analyst,Human Resources,Manufacturing,Female,Caucasian,61,64937.0,0.0,United States,2011-05-20,2024-01-29,12.7,1,Intermediate
+E00758,Director,Human Resources,Manufacturing,Female,Caucasian,54,162978.0,0.17,United States,1994-09-26,2004-05-24,9.7,0,Intermediate
+E04917,HRIS Analyst,Human Resources,Research & Development,Female,Caucasian,64,64057.0,0.0,United States,2001-10-20,2024-01-29,22.3,1,Veteran
+E02802,Sr. Business Partner,Human Resources,Research & Development,Male,Asian,53,95998.0,0.0,United States,2002-11-16,2024-01-29,21.2,1,Veteran
+E00431,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,58,93102.0,0.0,United States,1994-08-21,2013-12-13,19.3,0,Veteran
+E03506,Vice President,Human Resources,Research & Development,Male,Asian,48,197367.0,0.39,United States,2014-03-08,2024-01-29,9.9,1,Intermediate
+E01584,Sr. Manager,Human Resources,Research & Development,Male,Latino,29,125828.0,0.15,Brazil,2019-05-09,2024-01-29,4.7,1,New
+E02761,Manager,Human Resources,Research & Development,Male,Asian,48,120660.0,0.07,China,2004-06-30,2024-01-29,19.6,1,Veteran
+E01970,Director,Human Resources,Research & Development,Female,Caucasian,51,180687.0,0.19,United States,2021-03-28,2024-01-29,2.8,1,New
+E04871,Sr. Business Partner,Human Resources,Research & Development,Male,Caucasian,30,93734.0,0.0,United States,2015-03-15,2024-01-29,8.9,1,Intermediate
+E01687,HRIS Analyst,Human Resources,Research & Development,Male,Asian,41,51630.0,0.0,China,2007-10-24,2024-01-29,16.3,1,Veteran
+E01232,Vice President,Human Resources,Research & Development,Female,Black,34,220937.0,0.38,United States,2019-07-27,2024-01-29,4.5,1,New
+E01902,Sr. Manager,Human Resources,Research & Development,Female,Asian,64,125807.0,0.15,United States,2003-12-07,2024-01-29,20.2,1,Veteran
+E00432,Director,Human Resources,Research & Development,Male,Asian,37,160280.0,0.19,China,2012-05-19,2024-01-29,11.7,1,Intermediate
+E00650,Business Partner,Human Resources,Research & Development,Female,Asian,45,55563.0,0.0,China,2000-08-17,2024-01-29,23.5,1,Veteran
+E03461,Business Partner,Human Resources,Research & Development,Male,Asian,35,43336.0,0.0,United States,2011-02-22,2020-07-12,9.4,0,Intermediate
+E02185,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,60,78388.0,0.0,China,2005-11-11,2024-01-29,18.2,1,Veteran
+E00972,HRIS Analyst,Human Resources,Research & Development,Female,Latino,52,50548.0,0.0,Brazil,2021-04-18,2024-01-29,2.8,1,New
+E01076,Sr. Manager,Human Resources,Research & Development,Female,Asian,52,140042.0,0.13,United States,2017-09-05,2024-01-29,6.4,1,Intermediate
+E02063,Sr. Business Partner,Human Resources,Research & Development,Male,Latino,32,70980.0,0.0,Brazil,2021-04-09,2024-01-29,2.8,1,New
+E03681,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,45,90870.0,0.0,United States,2019-04-26,2024-01-29,4.8,1,New
+E02642,HRIS Analyst,Human Resources,Research & Development,Male,Caucasian,38,69647.0,0.0,United States,2019-11-29,2022-04-20,2.4,0,New
+E00503,Manager,Human Resources,Research & Development,Female,Caucasian,33,118253.0,0.08,United States,2012-06-11,2024-01-29,11.6,1,Intermediate
+E02235,Sr. Business Partner,Human Resources,Research & Development,Female,Latino,52,92994.0,0.0,United States,1999-09-13,2024-01-29,24.4,1,Veteran
+E00340,Business Partner,Human Resources,Research & Development,Female,Caucasian,56,52800.0,0.0,United States,2009-08-20,2024-01-29,14.5,1,Intermediate
+E00089,Sr. Manager,Human Resources,Research & Development,Female,Asian,37,131353.0,0.11,China,2011-01-17,2024-01-29,13.0,1,Intermediate
+E01264,Business Partner,Human Resources,Research & Development,Female,Latino,62,45295.0,0.0,Brazil,2014-04-19,2024-01-29,9.8,1,Intermediate
+E00459,Business Partner,Human Resources,Research & Development,Male,Black,48,54654.0,0.0,United States,2020-09-21,2024-01-29,3.4,1,New
+E03412,Sr. Manager,Human Resources,Research & Development,Male,Black,42,135558.0,0.14,United States,2003-10-20,2024-01-29,20.3,1,Veteran
+E03430,Sr. Business Partner,Human Resources,Research & Development,Male,Latino,48,85369.0,0.0,Brazil,1998-04-22,2004-11-27,6.6,0,Intermediate
+E02206,Director,Human Resources,Speciality Products,Male,Black,41,152239.0,0.23,United States,2015-04-17,2024-01-29,8.8,1,Intermediate
+E01754,Sr. Business Partner,Human Resources,Speciality Products,Male,Asian,30,86317.0,0.0,China,2017-05-29,2017-07-16,0.1,0,New
+E02112,Vice President,Human Resources,Speciality Products,Male,Black,45,236946.0,0.37,United States,2013-08-07,2024-01-29,10.5,1,Intermediate
+E00436,HRIS Analyst,Human Resources,Speciality Products,Female,Caucasian,41,54415.0,0.0,United States,2009-10-23,2014-01-22,4.3,0,New
+E00976,Director,Human Resources,Speciality Products,Female,Latino,65,153938.0,0.2,United States,2004-05-23,2024-01-29,19.7,1,Veteran
+E02072,HRIS Analyst,Human Resources,Speciality Products,Male,Caucasian,26,70369.0,0.0,United States,2021-03-12,2024-01-29,2.9,1,New
+E00311,Business Partner,Human Resources,Speciality Products,Female,Latino,34,52811.0,0.0,United States,2016-10-21,2024-01-29,7.3,1,Intermediate
+E03167,Director,Human Resources,Speciality Products,Male,Asian,39,161690.0,0.29,China,2006-11-28,2024-01-29,17.2,1,Veteran
+E03045,Business Partner,Human Resources,Speciality Products,Male,Asian,57,54051.0,0.0,United States,1997-04-28,1998-10-11,1.5,0,New
+E04224,Sr. Business Partner,Human Resources,Speciality Products,Male,Latino,56,72303.0,0.0,United States,1998-01-21,2024-01-29,26.0,1,Veteran
+E04972,Sr. Manager,Human Resources,Speciality Products,Female,Caucasian,41,131841.0,0.13,United States,2008-10-26,2024-01-29,15.3,1,Veteran
+E02140,Vice President,Human Resources,Speciality Products,Female,Asian,45,201396.0,0.32,United States,2021-09-22,2024-01-29,2.4,1,New
+E04417,Sr. Manager,Human Resources,Speciality Products,Female,Latino,45,152353.0,0.14,United States,2011-05-22,2024-01-29,12.7,1,Intermediate
+E02843,Manager,Human Resources,Speciality Products,Female,Latino,55,102839.0,0.05,United States,2010-02-24,2024-01-29,13.9,1,Intermediate
+E03571,Business Partner,Human Resources,Speciality Products,Male,Caucasian,28,48510.0,0.0,United States,2021-06-27,2024-01-29,2.6,1,New
+E02770,Manager,Human Resources,Speciality Products,Male,Asian,54,128136.0,0.05,China,1997-03-11,2024-01-29,26.9,1,Veteran
+E00701,Sr. Business Partner,Human Resources,Speciality Products,Female,Latino,45,74891.0,0.0,Brazil,2019-04-26,2024-01-29,4.8,1,New
+E02920,Vice President,Human Resources,Speciality Products,Female,Caucasian,28,231850.0,0.39,United States,2021-07-25,2024-01-29,2.5,1,New
+E04299,Director,Human Resources,Speciality Products,Female,Caucasian,41,153275.0,0.24,United States,2010-05-21,2024-01-29,13.7,1,Intermediate
+E02391,Vice President,Human Resources,Speciality Products,Female,Latino,45,249801.0,0.39,Brazil,2019-02-25,2024-01-29,4.9,1,New
+E03910,Manager,Human Resources,Speciality Products,Female,Asian,32,101870.0,0.1,United States,2017-01-03,2024-01-29,7.1,1,Intermediate
+E00369,Manager,Human Resources,Speciality Products,Female,Black,33,105390.0,0.06,United States,2013-08-21,2024-01-29,10.4,1,Intermediate
+E02492,Manager,Human Resources,Speciality Products,Male,Latino,59,101985.0,0.07,United States,2015-06-10,2024-01-29,8.6,1,Intermediate
+E01388,Business Partner,Human Resources,Speciality Products,Male,Asian,58,41728.0,0.0,China,2014-06-20,2024-01-29,9.6,1,Intermediate
+E03637,HRIS Analyst,Human Resources,Speciality Products,Male,Asian,25,67299.0,0.0,United States,2021-01-21,2024-01-29,3.0,1,New
+E00480,Business Partner,Human Resources,Speciality Products,Female,Asian,31,47913.0,0.0,United States,2018-03-12,2024-01-29,5.9,1,Intermediate
+E00203,Business Partner,Human Resources,Speciality Products,Female,Asian,53,46727.0,0.0,United States,2017-09-07,2018-05-31,0.7,0,New
+E00647,Sr. Manager,Human Resources,Speciality Products,Male,Asian,27,133400.0,0.11,United States,2021-04-16,2024-01-29,2.8,1,New
+E00952,Director,Human Resources,Speciality Products,Female,Asian,38,198562.0,0.22,United States,2007-05-30,2024-01-29,16.7,1,Veteran
+E03379,Manager,Human Resources,Speciality Products,Male,Asian,50,117226.0,0.08,United States,2012-03-15,2024-01-29,11.9,1,Intermediate
+E02193,Director,Human Resources,Speciality Products,Female,Latino,40,198176.0,0.17,Brazil,2020-09-20,2024-01-29,3.4,1,New
+E00880,Sr. Manager,Human Resources,Speciality Products,Female,Black,25,155080.0,0.1,United States,2021-03-17,2024-01-29,2.9,1,New
+E04562,Director,Human Resources,Speciality Products,Female,Latino,52,177443.0,0.25,Brazil,1993-08-28,2024-01-29,30.4,1,Veteran
+E00446,Vice President,Human Resources,Speciality Products,Male,Asian,31,230025.0,0.34,United States,2015-01-14,2024-01-29,9.0,1,Intermediate
+E02363,Sr. Manager,Human Resources,Speciality Products,Female,Asian,36,134006.0,0.13,China,2010-03-11,2024-01-29,13.9,1,Intermediate
+E03858,Director,Human Resources,Speciality Products,Male,Asian,47,195385.0,0.21,China,2019-11-03,2024-01-29,4.2,1,New
+E01550,Manager,IT,Corporate,Female,Caucasian,27,119746.0,0.1,United States,2020-07-01,2024-01-29,3.6,1,New
+E04116,Director,IT,Corporate,Male,Caucasian,64,186503.0,0.24,United States,2013-11-03,2024-01-29,10.2,1,Intermediate
+E00304,Vice President,IT,Corporate,Male,Asian,63,231141.0,0.34,China,2012-05-11,2024-01-29,11.7,1,Intermediate
+E01417,Enterprise Architect,IT,Corporate,Female,Latino,57,82872.0,0.0,Brazil,1994-01-03,2024-01-29,30.1,1,Veteran
+E02185,Computer Systems Manager,IT,Corporate,Male,Latino,32,79921.0,0.05,United States,2013-03-20,2024-01-29,10.9,1,Intermediate
+E00699,Sr. Manager,IT,Corporate,Female,Latino,55,159044.0,0.1,Brazil,2006-08-16,2024-01-29,17.5,1,Veteran
+E03440,Cloud Infrastructure Architect,IT,Corporate,Female,Latino,41,69803.0,0.0,Brazil,2009-04-28,2024-01-29,14.8,1,Intermediate
+E00431,Network Architect,IT,Corporate,Female,Latino,48,76588.0,0.0,Brazil,2019-07-04,2024-01-29,4.6,1,New
+E04888,Manager,IT,Corporate,Male,Caucasian,32,127148.0,0.1,United States,2014-01-03,2024-01-29,10.1,1,Intermediate
+E00523,Network Administrator,IT,Corporate,Male,Caucasian,58,69260.0,0.0,United States,1993-07-26,2024-01-29,30.5,1,Veteran
+E01986,Manager,IT,Corporate,Male,Asian,51,122802.0,0.05,China,1994-02-23,2024-01-29,30.0,1,Veteran
+E03935,Vice President,IT,Corporate,Female,Asian,53,182202.0,0.3,United States,2008-04-30,2024-01-29,15.8,1,Veteran
+E00813,Enterprise Architect,IT,Corporate,Female,Black,39,73317.0,0.0,United States,2018-05-09,2024-01-29,5.7,1,Intermediate
+E01638,IT Systems Architect,IT,Corporate,Female,Asian,45,82162.0,0.0,China,2010-08-28,2020-10-03,10.1,0,Intermediate
+E03474,Solutions Architect,IT,Corporate,Female,Caucasian,40,97807.0,0.0,United States,2010-12-10,2024-01-29,13.1,1,Intermediate
+E01351,Systems Analyst,IT,Corporate,Male,Caucasian,47,50069.0,0.0,United States,2020-04-23,2024-01-29,3.8,1,New
+E03268,Vice President,IT,Corporate,Female,Caucasian,48,194871.0,0.35,United States,2015-02-18,2024-01-29,9.0,1,Intermediate
+E02971,Enterprise Architect,IT,Corporate,Female,Asian,45,99169.0,0.0,China,2013-08-25,2024-01-29,10.4,1,Intermediate
+E00085,Sr. Manager,IT,Corporate,Male,Caucasian,46,130274.0,0.11,United States,2004-09-14,2024-01-29,19.4,1,Veteran
+E03685,Solutions Architect,IT,Corporate,Male,Black,55,62174.0,0.0,United States,1998-05-04,2024-01-29,25.8,1,Veteran
+E00401,System Administrator,IT,Corporate,Male,Caucasian,48,93017.0,0.0,United States,2003-08-11,2024-01-29,20.5,1,Veteran
+E04546,Cloud Infrastructure Architect,IT,Corporate,Female,Caucasian,42,96636.0,0.0,United States,2020-02-05,2024-01-29,4.0,1,New
+E04538,Cloud Infrastructure Architect,IT,Corporate,Female,Asian,53,86173.0,0.0,China,2011-07-20,2024-01-29,12.5,1,Intermediate
+E04466,Network Administrator,IT,Corporate,Male,Black,54,76352.0,0.0,United States,2000-04-01,2024-01-29,23.8,1,Veteran
+E01524,Computer Systems Manager,IT,Corporate,Male,Black,31,63744.0,0.08,United States,2016-10-13,2024-01-29,7.3,1,Intermediate
+E01070,Vice President,IT,Corporate,Male,Caucasian,38,249870.0,0.34,United States,2016-06-22,2024-01-29,7.6,1,Intermediate
+E00784,Service Desk Analyst,IT,Corporate,Female,Asian,60,90258.0,0.0,China,2004-02-10,2024-01-29,20.0,1,Veteran
+E03881,System Administrator,IT,Corporate,Male,Black,28,65341.0,0.0,United States,2019-06-17,2022-04-11,2.8,0,New
+E04756,Cloud Infrastructure Architect,IT,Corporate,Male,Asian,55,99774.0,0.0,United States,1994-12-24,2024-01-29,29.1,1,Veteran
+E03354,IT Systems Architect,IT,Corporate,Male,Latino,49,68426.0,0.0,Brazil,2016-06-24,2024-01-29,7.6,1,Intermediate
+E04359,Solutions Architect,IT,Corporate,Female,Latino,59,90901.0,0.0,United States,2014-03-19,2024-01-29,9.9,1,Intermediate
+E01724,Computer Systems Manager,IT,Corporate,Male,Latino,36,70165.0,0.07,Brazil,2020-12-27,2024-01-29,3.1,1,New
+E04087,Manager,IT,Corporate,Male,Asian,60,109059.0,0.07,China,2000-01-29,2024-01-29,24.0,1,Veteran
+E04491,Cloud Infrastructure Architect,IT,Corporate,Male,Asian,45,91276.0,0.0,United States,2000-03-02,2024-01-29,23.9,1,Veteran
+E03824,Technical Architect,IT,Corporate,Male,Caucasian,37,71695.0,0.0,United States,2008-02-15,2024-01-29,16.0,1,Veteran
+E01591,Technical Architect,IT,Corporate,Female,Asian,57,76202.0,0.0,United States,1992-05-04,1994-12-18,2.6,0,New
+E02903,System Administrator,IT,Corporate,Male,Latino,40,87770.0,0.0,United States,2021-09-26,2024-01-29,2.3,1,New
+E01363,Technical Architect,IT,Corporate,Female,Caucasian,53,78153.0,0.0,United States,1997-04-23,2024-01-29,26.8,1,Veteran
+E02987,Manager,IT,Corporate,Male,Caucasian,30,119906.0,0.05,United States,2017-08-05,2024-01-29,6.5,1,Intermediate
+E04048,IT Systems Architect,IT,Corporate,Male,Asian,51,91399.0,0.0,United States,2003-01-17,2024-01-29,21.0,1,Veteran
+E03694,Systems Analyst,IT,Corporate,Male,Caucasian,51,53929.0,0.0,United States,2014-02-27,2017-12-22,3.8,0,New
+E02440,Solutions Architect,IT,Corporate,Male,Caucasian,54,63196.0,0.0,United States,1992-06-30,2014-10-26,22.3,0,Veteran
+E00494,Service Desk Analyst,IT,Corporate,Male,Latino,39,84297.0,0.0,Brazil,2016-10-21,2024-01-29,7.3,1,Intermediate
+E00981,System Administrator,IT,Corporate,Male,Asian,57,63318.0,0.0,United States,2003-06-26,2024-01-29,20.6,1,Veteran
+E00639,System Administrator,IT,Corporate,Male,Asian,54,95239.0,0.0,United States,1998-06-15,2024-01-29,25.6,1,Veteran
+E04972,Network Engineer,IT,Corporate,Female,Asian,29,63985.0,0.0,United States,2017-11-09,2024-01-29,6.2,1,Intermediate
+E01898,IT Systems Architect,IT,Corporate,Male,Asian,29,71234.0,0.0,United States,2021-06-28,2024-01-29,2.6,1,New
+E02135,Cloud Infrastructure Architect,IT,Corporate,Male,Latino,30,92058.0,0.0,United States,2017-02-11,2024-01-29,7.0,1,Intermediate
+E02217,Network Architect,IT,Corporate,Male,Black,61,88478.0,0.0,United States,2004-01-27,2024-01-29,20.0,1,Veteran
+E03902,Network Administrator,IT,Corporate,Female,Caucasian,40,61523.0,0.0,United States,2012-02-05,2024-01-29,12.0,1,Intermediate
+E00287,IT Systems Architect,IT,Corporate,Male,Latino,48,94815.0,0.0,United States,2008-07-06,2024-01-29,15.6,1,Veteran
+E01148,Systems Analyst,IT,Corporate,Female,Asian,55,47032.0,0.0,United States,2009-01-07,2024-01-29,15.1,1,Veteran
+E04105,Technical Architect,IT,Manufacturing,Male,Asian,59,99975.0,0.0,China,1997-11-29,2024-01-29,26.2,1,Veteran
+E02832,Computer Systems Manager,IT,Manufacturing,Female,Caucasian,26,84913.0,0.07,United States,2019-09-27,2024-01-29,4.3,1,New
+E03680,Sr. Manager,IT,Manufacturing,Male,Latino,56,146140.0,0.1,Brazil,2012-01-09,2024-01-29,12.1,1,Intermediate
+E02074,Enterprise Architect,IT,Manufacturing,Female,Caucasian,32,99575.0,0.0,United States,2014-02-11,2024-01-29,10.0,1,Intermediate
+E04285,Technical Architect,IT,Manufacturing,Female,Latino,35,78940.0,0.0,United States,2013-05-15,2024-01-29,10.7,1,Intermediate
+E02862,Sr. Manager,IT,Manufacturing,Female,Asian,25,125633.0,0.11,China,2021-07-02,2024-01-29,2.6,1,New
+E01540,IT Coordinator,IT,Manufacturing,Male,Latino,36,53215.0,0.0,Brazil,2010-12-23,2014-03-27,3.3,0,New
+E03417,Computer Systems Manager,IT,Manufacturing,Male,Asian,40,93971.0,0.08,China,2007-07-02,2024-01-29,16.6,1,Veteran
+E01258,Network Engineer,IT,Manufacturing,Male,Caucasian,29,84596.0,0.0,United States,2018-12-10,2024-01-29,5.1,1,Intermediate
+E04931,Network Architect,IT,Manufacturing,Female,Latino,32,88072.0,0.0,Brazil,2021-10-05,2024-01-29,2.3,1,New
+E04735,System Administrator,IT,Manufacturing,Female,Caucasian,44,74738.0,0.0,United States,2006-12-13,2024-01-29,17.1,1,Veteran
+E01642,Sr. Manager,IT,Manufacturing,Female,Asian,49,134486.0,0.14,United States,2006-04-18,2024-01-29,17.8,1,Veteran
+E02331,Enterprise Architect,IT,Manufacturing,Female,Asian,55,92771.0,0.0,United States,2005-08-09,2024-01-29,18.5,1,Veteran
+E03042,Systems Analyst,IT,Manufacturing,Female,Caucasian,63,53809.0,0.0,United States,1992-04-01,2024-01-29,31.8,1,Veteran
+E03131,Sr. Manager,IT,Manufacturing,Male,Caucasian,37,128984.0,0.12,United States,2014-02-25,2021-05-01,7.2,0,Intermediate
+E00306,Enterprise Architect,IT,Manufacturing,Male,Caucasian,40,97339.0,0.0,United States,2011-01-22,2024-01-29,13.0,1,Intermediate
+E02855,Enterprise Architect,IT,Manufacturing,Female,Asian,62,82839.0,0.0,United States,2009-03-15,2024-01-29,14.9,1,Intermediate
+E02283,Network Architect,IT,Manufacturing,Male,Asian,33,69453.0,0.0,China,2020-07-24,2024-01-29,3.5,1,New
+E04504,Enterprise Architect,IT,Manufacturing,Male,Latino,47,92897.0,0.0,Brazil,1999-03-14,2024-01-29,24.9,1,Veteran
+E01361,IT Coordinator,IT,Manufacturing,Female,Caucasian,54,41673.0,0.0,United States,2016-12-27,2024-01-29,7.1,1,Intermediate
+E03269,Network Engineer,IT,Manufacturing,Female,Asian,50,97537.0,0.0,China,2001-01-23,2024-01-29,23.0,1,Veteran
+E02333,Service Desk Analyst,IT,Manufacturing,Male,Black,54,64417.0,0.0,United States,2010-12-28,2024-01-29,13.1,1,Intermediate
+E00233,Service Desk Analyst,IT,Manufacturing,Female,Latino,36,91954.0,0.0,United States,2019-12-19,2024-01-29,4.1,1,New
+E00697,System Administrator,IT,Manufacturing,Male,Latino,29,87536.0,0.0,United States,2017-05-11,2024-01-29,6.7,1,Intermediate
+E01484,Service Desk Analyst,IT,Manufacturing,Female,Asian,48,82017.0,0.0,China,2003-08-22,2024-01-29,20.5,1,Veteran
+E02227,Cloud Infrastructure Architect,IT,Manufacturing,Female,Caucasian,36,99080.0,0.0,United States,2014-05-30,2024-01-29,9.7,1,Intermediate
+E01064,Sr. Manager,IT,Manufacturing,Female,Asian,39,135325.0,0.14,United States,2017-03-25,2024-01-29,6.9,1,Intermediate
+E01525,Computer Systems Manager,IT,Manufacturing,Female,Latino,32,61886.0,0.09,Brazil,2017-10-02,2024-01-29,6.3,1,Intermediate
+E00691,Systems Analyst,IT,Manufacturing,Female,Asian,34,44614.0,0.0,United States,2016-05-22,2024-01-29,7.7,1,Intermediate
+E03941,Technical Architect,IT,Manufacturing,Female,Asian,58,86089.0,0.0,United States,2005-06-18,2024-01-29,18.6,1,Veteran
+E04378,Network Administrator,IT,Manufacturing,Male,Black,31,71192.0,0.0,United States,2016-05-07,2024-01-29,7.7,1,Intermediate
+E03908,Network Architect,IT,Manufacturing,Male,Caucasian,54,87216.0,0.0,United States,1994-10-24,2024-01-29,29.3,1,Veteran
+E03807,Computer Systems Manager,IT,Manufacturing,Female,Asian,42,67398.0,0.07,United States,2005-10-15,2024-01-29,18.3,1,Veteran
+E04290,Technical Architect,IT,Manufacturing,Female,Latino,25,83934.0,0.0,United States,2021-05-11,2024-01-29,2.7,1,New
+E02770,Service Desk Analyst,IT,Manufacturing,Female,Asian,30,86774.0,0.0,China,2019-03-29,2024-01-29,4.8,1,New
+E00836,Network Architect,IT,Manufacturing,Female,Caucasian,65,60985.0,0.0,United States,2018-05-14,2024-01-29,5.7,1,Intermediate
+E02023,Systems Analyst,IT,Manufacturing,Male,Asian,40,41859.0,0.0,United States,2007-07-30,2024-01-29,16.5,1,Veteran
+E03166,IT Coordinator,IT,Manufacturing,Male,Black,42,52733.0,0.0,United States,2006-09-24,2024-01-29,17.4,1,Veteran
+E01479,IT Systems Architect,IT,Manufacturing,Female,Caucasian,55,81218.0,0.0,United States,2011-11-21,2024-01-29,12.2,1,Intermediate
+E03540,Solutions Architect,IT,Manufacturing,Female,Caucasian,28,68176.0,0.0,United States,2018-01-22,2024-01-29,6.0,1,Intermediate
+E04217,System Administrator,IT,Manufacturing,Female,Black,35,91592.0,0.0,United States,2014-10-29,2024-01-29,9.3,1,Intermediate
+E04639,Network Administrator,IT,Manufacturing,Female,Caucasian,47,87806.0,0.0,United States,2018-07-28,2024-01-29,5.5,1,Intermediate
+E04925,System Administrator,IT,Manufacturing,Female,Black,42,72486.0,0.0,United States,2011-02-19,2024-01-29,13.0,1,Intermediate
+E00436,Computer Systems Manager,IT,Manufacturing,Male,Latino,60,85120.0,0.09,United States,1998-08-03,2024-01-29,25.5,1,Veteran
+E01496,Enterprise Architect,IT,Manufacturing,Female,Latino,53,65702.0,0.0,United States,2004-07-20,2024-01-29,19.5,1,Veteran
+E02313,Network Architect,IT,Manufacturing,Male,Asian,50,73907.0,0.0,China,2001-03-06,2024-01-29,22.9,1,Veteran
+E03371,Vice President,IT,Manufacturing,Male,Caucasian,56,228822.0,0.36,United States,2006-05-29,2024-01-29,17.7,1,Veteran
+E01499,Computer Systems Manager,IT,Manufacturing,Male,Caucasian,28,73255.0,0.09,United States,2020-08-08,2024-01-29,3.5,1,New
+E01958,Network Administrator,IT,Manufacturing,Male,Asian,27,92321.0,0.0,United States,2020-12-24,2024-01-29,3.1,1,New
+E00099,IT Systems Architect,IT,Manufacturing,Female,Latino,44,82462.0,0.0,United States,2011-03-01,2024-01-29,12.9,1,Intermediate
+E01423,Vice President,IT,Manufacturing,Male,Latino,51,247874.0,0.33,Brazil,2001-07-19,2024-01-29,22.5,1,Veteran
+E00319,Service Desk Analyst,IT,Manufacturing,Male,Caucasian,55,70334.0,0.0,United States,2013-10-18,2024-01-29,10.3,1,Intermediate
+E04323,Director,IT,Manufacturing,Female,Latino,28,160385.0,0.23,United States,2021-01-25,2021-05-18,0.3,0,New
+E01995,Vice President,IT,Manufacturing,Male,Asian,37,221592.0,0.31,United States,2011-06-25,2024-01-29,12.6,1,Intermediate
+E01432,Systems Analyst,IT,Manufacturing,Female,Latino,53,44735.0,0.0,Brazil,2004-08-15,2024-01-29,19.5,1,Veteran
+E03890,Solutions Architect,IT,Manufacturing,Male,Asian,43,86417.0,0.0,United States,2017-01-18,2024-01-29,7.0,1,Intermediate
+E03870,Cloud Infrastructure Architect,IT,Manufacturing,Female,Caucasian,30,94652.0,0.0,United States,2020-02-03,2024-01-29,4.0,1,New
+E01927,Technical Architect,IT,Manufacturing,Male,Black,34,63411.0,0.0,United States,2016-02-16,2024-01-29,8.0,1,Intermediate
+E01387,Director,IT,Manufacturing,Female,Asian,27,167100.0,0.2,China,2018-01-03,2024-01-29,6.1,1,Intermediate
+E01649,Computer Systems Manager,IT,Manufacturing,Female,Latino,46,77461.0,0.09,Brazil,2017-04-24,2024-01-29,6.8,1,Intermediate
+E04444,IT Coordinator,IT,Manufacturing,Female,Latino,61,57446.0,0.0,United States,2014-08-10,2024-01-29,9.5,1,Intermediate
+E02005,Enterprise Architect,IT,Manufacturing,Female,Asian,36,97500.0,0.0,United States,2014-11-21,2024-01-29,9.2,1,Intermediate
+E01895,IT Coordinator,IT,Manufacturing,Male,Asian,25,41844.0,0.0,China,2021-01-17,2024-01-29,3.0,1,New
+E04109,IT Coordinator,IT,Manufacturing,Female,Caucasian,55,40124.0,0.0,United States,2004-04-30,2024-01-29,19.8,1,Veteran
+E04189,Network Architect,IT,Manufacturing,Female,Asian,33,96366.0,0.0,China,2014-06-29,2024-01-29,9.6,1,Intermediate
+E04079,Network Architect,IT,Manufacturing,Male,Caucasian,41,67468.0,0.0,United States,2017-10-05,2024-01-29,6.3,1,Intermediate
+E01834,Solutions Architect,IT,Manufacturing,Female,Caucasian,64,77903.0,0.0,United States,2004-07-08,2024-01-29,19.6,1,Veteran
+E00035,Cloud Infrastructure Architect,IT,Manufacturing,Female,Latino,43,62335.0,0.0,Brazil,2009-03-13,2024-01-29,14.9,1,Intermediate
+E00465,Technical Architect,IT,Manufacturing,Female,Asian,45,92655.0,0.0,China,2002-07-08,2024-01-29,21.6,1,Veteran
+E00592,System Administrator,IT,Manufacturing,Female,Caucasian,57,75354.0,0.0,United States,1996-02-18,1996-12-14,0.8,0,New
+E03332,Cloud Infrastructure Architect,IT,Manufacturing,Female,Asian,50,83418.0,0.0,China,2021-09-06,2024-01-29,2.4,1,New
+E02035,Service Desk Analyst,IT,Manufacturing,Male,Asian,45,88182.0,0.0,China,2010-03-16,2024-01-29,13.9,1,Intermediate
+E01125,Network Engineer,IT,Manufacturing,Male,Asian,34,61944.0,0.0,China,2018-11-10,2024-01-29,5.2,1,Intermediate
+E02274,Network Administrator,IT,Manufacturing,Female,Caucasian,36,61310.0,0.0,United States,2010-08-23,2024-01-29,13.4,1,Intermediate
+E01339,Network Engineer,IT,Manufacturing,Male,Latino,26,74467.0,0.0,United States,2019-04-14,2021-01-15,1.8,0,New
+E00869,Cloud Infrastructure Architect,IT,Manufacturing,Female,Asian,33,69332.0,0.0,United States,2017-10-21,2024-01-29,6.3,1,Intermediate
+E04089,Sr. Manager,IT,Manufacturing,Male,Asian,46,136716.0,0.12,United States,2017-12-16,2024-01-29,6.1,1,Intermediate
+E01722,Manager,IT,Manufacturing,Male,Asian,45,101288.0,0.1,United States,2015-01-22,2024-01-29,9.0,1,Intermediate
+E00640,Cloud Infrastructure Architect,IT,Manufacturing,Female,Black,37,91400.0,0.0,United States,2016-04-27,2024-01-29,7.8,1,Intermediate
+E03168,Sr. Manager,IT,Manufacturing,Female,Asian,53,154388.0,0.1,United States,1997-04-12,2024-01-29,26.8,1,Veteran
+E03058,Technical Architect,IT,Manufacturing,Male,Caucasian,30,67489.0,0.0,United States,2015-06-14,2024-01-29,8.6,1,Intermediate
+E04762,Director,IT,Manufacturing,Female,Caucasian,46,166259.0,0.17,United States,2018-10-06,2024-01-29,5.3,1,Intermediate
+E02387,Sr. Manager,IT,Research & Development,Female,Black,55,141604.0,0.15,United States,2016-04-08,2021-10-16,5.5,0,Intermediate
+E03484,Director,IT,Research & Development,Male,Latino,59,172787.0,0.28,Brazil,2002-05-24,2024-01-29,21.7,1,Veteran
+E02594,IT Coordinator,IT,Research & Development,Male,Asian,28,54775.0,0.0,United States,2017-06-25,2024-01-29,6.6,1,Intermediate
+E03538,Enterprise Architect,IT,Research & Development,Male,Caucasian,40,92952.0,0.0,United States,2010-11-04,2024-01-29,13.2,1,Intermediate
+E03830,Director,IT,Research & Development,Female,Black,37,167199.0,0.2,United States,2009-09-20,2024-01-29,14.4,1,Intermediate
+E00443,Computer Systems Manager,IT,Research & Development,Male,Asian,28,67925.0,0.08,China,2020-05-26,2024-01-29,3.7,1,New
+E04903,Director,IT,Research & Development,Female,Asian,29,161203.0,0.15,China,2020-08-09,2024-01-29,3.5,1,New
+E03567,Technical Architect,IT,Research & Development,Male,Latino,51,86431.0,0.0,United States,2008-04-15,2024-01-29,15.8,1,Veteran
+E01499,Solutions Architect,IT,Research & Development,Male,Asian,54,83639.0,0.0,China,2013-07-13,2024-01-29,10.6,1,Intermediate
+E00521,Network Architect,IT,Research & Development,Female,Caucasian,54,68268.0,0.0,United States,1998-05-18,2024-01-29,25.7,1,Veteran
+E04618,Technical Architect,IT,Research & Development,Male,Asian,46,94790.0,0.0,China,2021-10-26,2024-01-29,2.3,1,New
+E01037,IT Systems Architect,IT,Research & Development,Male,Asian,31,96567.0,0.0,China,2020-09-12,2024-01-29,3.4,1,New
+E02216,IT Systems Architect,IT,Research & Development,Male,Latino,29,66819.0,0.0,Brazil,2019-10-15,2024-01-29,4.3,1,New
+E04112,Systems Analyst,IT,Research & Development,Male,Asian,43,59888.0,0.0,China,2018-05-04,2024-01-29,5.7,1,Intermediate
+E01403,Vice President,IT,Research & Development,Male,Asian,40,234469.0,0.31,China,2020-11-08,2024-01-29,3.2,1,New
+E00672,Vice President,IT,Research & Development,Male,Asian,31,215388.0,0.33,United States,2015-07-12,2024-01-29,8.6,1,Intermediate
+E04567,Systems Analyst,IT,Research & Development,Female,Asian,28,50111.0,0.0,China,2019-10-25,2024-01-29,4.3,1,New
+E01378,System Administrator,IT,Research & Development,Female,Asian,51,64170.0,0.0,United States,2012-02-25,2024-01-29,11.9,1,Intermediate
+E03854,Sr. Manager,IT,Research & Development,Female,Asian,60,126911.0,0.1,China,2010-07-24,2024-01-29,13.5,1,Intermediate
+E02861,Enterprise Architect,IT,Research & Development,Male,Caucasian,62,80921.0,0.0,United States,2001-04-15,2024-01-29,22.8,1,Veteran
+E03328,Manager,IT,Research & Development,Female,Caucasian,57,103058.0,0.07,United States,2020-04-27,2024-01-29,3.8,1,New
+E01241,Sr. Manager,IT,Research & Development,Female,Latino,49,125086.0,0.1,Brazil,2004-01-14,2024-01-29,20.1,1,Veteran
+E00632,Network Architect,IT,Research & Development,Male,Asian,37,96331.0,0.0,China,2017-07-06,2024-01-29,6.6,1,Intermediate
+E00344,Director,IT,Research & Development,Female,Asian,52,159724.0,0.23,China,1996-02-14,2024-01-29,28.0,1,Veteran
+E03058,Vice President,IT,Research & Development,Male,Asian,35,234723.0,0.36,China,2015-06-11,2024-01-29,8.6,1,Intermediate
+E01132,Computer Systems Manager,IT,Research & Development,Female,Caucasian,42,97433.0,0.05,United States,2006-03-01,2015-08-08,9.4,0,Intermediate
+E01952,Network Administrator,IT,Research & Development,Male,Asian,45,90770.0,0.0,United States,2010-02-26,2024-01-29,13.9,1,Intermediate
+E04784,Technical Architect,IT,Research & Development,Male,Asian,37,80055.0,0.0,China,2016-02-05,2024-01-29,8.0,1,Intermediate
+E03616,Manager,IT,Research & Development,Male,Caucasian,46,127559.0,0.1,United States,2021-08-11,2024-01-29,2.5,1,New
+E03223,IT Coordinator,IT,Research & Development,Male,Caucasian,45,49219.0,0.0,United States,2018-05-28,2024-01-29,5.7,1,Intermediate
+E01103,IT Systems Architect,IT,Research & Development,Female,Latino,55,73955.0,0.0,United States,1994-08-30,2024-01-29,29.4,1,Veteran
+E01870,Computer Systems Manager,IT,Research & Development,Male,Caucasian,52,99557.0,0.09,United States,2013-05-23,2024-01-29,10.7,1,Intermediate
+E00044,Vice President,IT,Research & Development,Female,Caucasian,53,198473.0,0.32,United States,2011-11-09,2024-01-29,12.2,1,Intermediate
+E04114,Director,IT,Research & Development,Male,Asian,55,184648.0,0.24,China,2007-03-13,2024-01-29,16.9,1,Veteran
+E04170,Vice President,IT,Research & Development,Male,Asian,26,256561.0,0.39,United States,2020-05-09,2024-01-29,3.7,1,New
+E02012,System Administrator,IT,Research & Development,Female,Asian,65,96548.0,0.0,United States,2003-05-08,2024-01-29,20.7,1,Veteran
+E01366,Computer Systems Manager,IT,Research & Development,Male,Black,40,95899.0,0.1,United States,2019-02-24,2021-03-08,2.0,0,New
+E04174,Computer Systems Manager,IT,Research & Development,Male,Caucasian,26,69110.0,0.05,United States,2019-07-10,2024-01-29,4.6,1,New
+E03626,Enterprise Architect,IT,Research & Development,Male,Latino,28,97336.0,0.0,United States,2017-09-28,2024-01-29,6.3,1,Intermediate
+E02258,Enterprise Architect,IT,Research & Development,Female,Asian,36,75862.0,0.0,United States,2016-04-29,2024-01-29,7.8,1,Intermediate
+E01429,Network Administrator,IT,Research & Development,Male,Caucasian,48,76505.0,0.0,United States,2006-09-27,2007-04-08,0.5,0,New
+E04732,Network Engineer,IT,Research & Development,Male,Latino,48,68987.0,0.0,United States,2005-07-27,2006-04-22,0.7,0,New
+E04547,Enterprise Architect,IT,Research & Development,Female,Caucasian,49,88777.0,0.0,United States,2014-03-05,2024-01-29,9.9,1,Intermediate
+E03583,Cloud Infrastructure Architect,IT,Research & Development,Male,Caucasian,48,99335.0,0.0,United States,2010-09-14,2024-01-29,13.4,1,Intermediate
+E00862,Systems Analyst,IT,Research & Development,Male,Latino,64,40316.0,0.0,Brazil,2020-06-27,2024-01-29,3.6,1,New
+E02576,Manager,IT,Research & Development,Female,Asian,55,115145.0,0.05,China,2005-02-08,2024-01-29,19.0,1,Veteran
+E03240,Vice President,IT,Research & Development,Male,Latino,42,186725.0,0.32,Brazil,2010-11-29,2024-01-29,13.2,1,Intermediate
+E03455,Systems Analyst,IT,Research & Development,Female,Caucasian,52,45286.0,0.0,United States,2005-02-23,2024-01-29,18.9,1,Veteran
+E02848,System Administrator,IT,Research & Development,Male,Asian,55,87851.0,0.0,China,2016-11-09,2024-01-29,7.2,1,Intermediate
+E04978,Enterprise Architect,IT,Research & Development,Female,Caucasian,45,64505.0,0.0,United States,2009-04-05,2024-01-29,14.8,1,Intermediate
+E00126,Network Administrator,IT,Research & Development,Female,Caucasian,58,72045.0,0.0,United States,2016-04-26,2024-01-29,7.8,1,Intermediate
+E00481,Network Architect,IT,Research & Development,Male,Caucasian,61,96566.0,0.0,United States,2016-03-08,2024-01-29,7.9,1,Intermediate
+E02833,Systems Analyst,IT,Research & Development,Male,Latino,45,54994.0,0.0,United States,2001-08-23,2024-01-29,22.4,1,Veteran
+E00156,Sr. Manager,IT,Research & Development,Female,Caucasian,46,148035.0,0.14,United States,2002-01-09,2024-01-29,22.1,1,Veteran
+E01578,Sr. Manager,IT,Research & Development,Male,Asian,37,146961.0,0.11,United States,2010-11-29,2024-01-29,13.2,1,Intermediate
+E03574,Vice President,IT,Speciality Products,Male,Caucasian,52,199808.0,0.32,United States,2005-11-08,2024-01-29,18.2,1,Veteran
+E01249,Vice President,IT,Speciality Products,Female,Latino,43,208415.0,0.35,United States,2009-08-04,2024-01-29,14.5,1,Intermediate
+E03349,Cloud Infrastructure Architect,IT,Speciality Products,Female,Asian,32,78844.0,0.0,United States,2020-01-05,2024-01-29,4.1,1,New
+E02875,Computer Systems Manager,IT,Speciality Products,Female,Asian,48,74546.0,0.09,United States,2007-01-09,2024-01-29,17.1,1,Veteran
+E04267,Cloud Infrastructure Architect,IT,Speciality Products,Male,Black,28,90304.0,0.0,United States,2019-03-06,2024-01-29,4.9,1,New
+E02094,Network Engineer,IT,Speciality Products,Male,Asian,45,67686.0,0.0,China,2005-09-18,2024-01-29,18.4,1,Veteran
+E00816,Network Architect,IT,Speciality Products,Female,Caucasian,28,64475.0,0.0,United States,2021-10-08,2024-01-29,2.3,1,New
+E00535,Manager,IT,Speciality Products,Male,Latino,53,120128.0,0.1,United States,2006-10-31,2024-01-29,17.3,1,Veteran
+E00671,Systems Analyst,IT,Speciality Products,Male,Asian,47,49404.0,0.0,China,1999-03-10,2024-01-29,24.9,1,Veteran
+E00870,Service Desk Analyst,IT,Speciality Products,Female,Asian,40,69096.0,0.0,United States,2013-06-26,2024-01-29,10.6,1,Intermediate
+E04572,Director,IT,Speciality Products,Female,Asian,47,183156.0,0.3,United States,2012-10-26,2024-01-29,11.3,1,Intermediate
+E02747,Vice President,IT,Speciality Products,Female,Latino,32,192749.0,0.31,United States,2020-07-22,2024-01-29,3.5,1,New
+E01281,Network Architect,IT,Speciality Products,Male,Black,46,67374.0,0.0,United States,2005-06-10,2024-01-29,18.6,1,Veteran
+E03292,Computer Systems Manager,IT,Speciality Products,Female,Black,45,86478.0,0.06,United States,2018-03-26,2024-01-29,5.8,1,Intermediate
+E02681,Director,IT,Speciality Products,Female,Caucasian,26,151108.0,0.22,United States,2021-07-26,2024-01-29,2.5,1,New
+E04816,Service Desk Analyst,IT,Speciality Products,Male,Asian,31,95963.0,0.0,China,2017-02-14,2024-01-29,7.0,1,Intermediate
+E04387,Network Architect,IT,Speciality Products,Female,Caucasian,59,86831.0,0.0,United States,2017-10-20,2024-01-29,6.3,1,Intermediate
+E03090,Technical Architect,IT,Speciality Products,Female,Asian,49,72826.0,0.0,China,2010-09-10,2024-01-29,13.4,1,Intermediate
+E03255,System Administrator,IT,Speciality Products,Male,Caucasian,43,67976.0,0.0,United States,2016-04-07,2024-01-29,7.8,1,Intermediate
+E04529,Technical Architect,IT,Speciality Products,Male,Asian,42,64677.0,0.0,China,2014-06-23,2024-01-29,9.6,1,Intermediate
+E04041,IT Coordinator,IT,Speciality Products,Female,Asian,39,48415.0,0.0,China,2020-11-18,2024-01-29,3.2,1,New
+E00965,Computer Systems Manager,IT,Speciality Products,Male,Asian,53,84193.0,0.09,China,2008-02-09,2024-01-29,16.0,1,Veteran
+E00747,Technical Architect,IT,Speciality Products,Female,Caucasian,59,76027.0,0.0,United States,2010-04-04,2024-01-29,13.8,1,Intermediate
+E02917,Solutions Architect,IT,Speciality Products,Male,Latino,57,66649.0,0.0,Brazil,2014-07-10,2024-01-29,9.6,1,Intermediate
+E00593,Solutions Architect,IT,Speciality Products,Male,Caucasian,34,94352.0,0.0,United States,2016-05-24,2024-01-29,7.7,1,Intermediate
+E00929,Solutions Architect,IT,Speciality Products,Female,Latino,45,66958.0,0.0,United States,2020-04-16,2024-01-29,3.8,1,New
+E04535,System Administrator,IT,Speciality Products,Female,Asian,57,74854.0,0.0,United States,2014-01-10,2024-01-29,10.1,1,Intermediate
+E01519,Vice President,IT,Speciality Products,Male,Latino,54,241083.0,0.39,United States,2009-08-15,2024-01-29,14.5,1,Intermediate
+E02192,Solutions Architect,IT,Speciality Products,Female,Latino,43,76912.0,0.0,Brazil,2010-04-22,2024-01-29,13.8,1,Intermediate
+E04123,Vice President,IT,Speciality Products,Male,Black,59,246619.0,0.36,United States,2010-12-30,2024-01-29,13.1,1,Intermediate
+E03227,IT Coordinator,IT,Speciality Products,Male,Caucasian,38,48762.0,0.0,United States,2015-04-19,2024-01-29,8.8,1,Intermediate
+E02798,Systems Analyst,IT,Speciality Products,Male,Caucasian,48,43080.0,0.0,United States,2002-02-11,2024-01-29,22.0,1,Veteran
+E03248,Sr. Manager,IT,Speciality Products,Female,Caucasian,43,120321.0,0.12,United States,2015-03-27,2024-01-29,8.8,1,Intermediate
+E03928,IT Coordinator,IT,Speciality Products,Male,Asian,61,40063.0,0.0,United States,2000-09-24,2024-01-29,23.4,1,Veteran
+E02428,Computer Systems Manager,IT,Speciality Products,Male,Asian,35,73899.0,0.05,China,2016-05-03,2024-01-29,7.7,1,Intermediate
+E03830,Technical Architect,IT,Speciality Products,Female,Asian,56,82806.0,0.0,United States,1996-06-22,2024-01-29,27.6,1,Veteran
+E04697,Enterprise Architect,IT,Speciality Products,Female,Caucasian,61,64462.0,0.0,United States,2005-02-09,2024-01-29,19.0,1,Veteran
+E03278,Solutions Architect,IT,Speciality Products,Female,Caucasian,45,66660.0,0.0,United States,2017-11-03,2024-01-29,6.2,1,Intermediate
+E00555,Network Architect,IT,Speciality Products,Female,Asian,45,68337.0,0.0,China,2006-12-18,2024-01-29,17.1,1,Veteran
+E03149,IT Systems Architect,IT,Speciality Products,Female,Caucasian,26,74170.0,0.0,United States,2021-03-11,2024-01-29,2.9,1,New
+E04380,Manager,IT,Speciality Products,Female,Caucasian,51,107195.0,0.09,United States,2020-03-13,2024-01-29,3.9,1,New
+E03595,Enterprise Architect,IT,Speciality Products,Male,Caucasian,61,75780.0,0.0,United States,2019-08-26,2024-01-29,4.4,1,New
+E03519,Computer Systems Manager,IT,Speciality Products,Female,Asian,48,91679.0,0.07,China,2014-04-20,2024-01-29,9.8,1,Intermediate
+E00102,Network Architect,IT,Speciality Products,Female,Latino,36,90333.0,0.0,Brazil,2021-01-21,2024-01-29,3.0,1,New
+E03296,Solutions Architect,IT,Speciality Products,Female,Asian,39,90535.0,0.0,United States,2020-04-22,2024-01-29,3.8,1,New
+E04670,IT Systems Architect,IT,Speciality Products,Male,Asian,34,94735.0,0.0,China,2019-09-20,2024-01-29,4.4,1,New
+E02888,Sr. Manager,IT,Speciality Products,Male,Latino,33,132544.0,0.1,Brazil,2012-12-24,2024-01-29,11.1,1,Intermediate
+E01611,Computer Systems Manager,IT,Speciality Products,Female,Asian,36,88730.0,0.08,China,2014-11-29,2024-01-29,9.2,1,Intermediate
+E03691,Solutions Architect,IT,Speciality Products,Male,Latino,55,80170.0,0.0,United States,1993-11-17,2024-01-29,30.2,1,Veteran
+E00559,Network Architect,IT,Speciality Products,Female,Latino,36,94618.0,0.0,United States,2016-11-03,2024-01-29,7.2,1,Intermediate
+E02221,Systems Analyst,IT,Speciality Products,Male,Latino,29,52693.0,0.0,Brazil,2016-05-19,2024-01-29,7.7,1,Intermediate
+E03247,Vice President,IT,Speciality Products,Female,Asian,57,246589.0,0.33,United States,2016-11-11,2017-03-26,0.4,0,New
+E00935,Analyst II,Marketing,Corporate,Male,Black,41,64847.0,0.0,United States,2016-09-13,2024-01-29,7.4,1,Intermediate
+E04131,Sr. Analyst,Marketing,Corporate,Female,Latino,42,94430.0,0.0,United States,2021-01-02,2024-01-29,3.1,1,New
+E04769,Sr. Analyst,Marketing,Corporate,Female,Asian,39,99017.0,0.0,China,2007-11-05,2024-01-29,16.2,1,Veteran
+E03719,Analyst,Marketing,Corporate,Male,Caucasian,55,40752.0,0.0,United States,2004-12-07,2024-01-29,19.2,1,Veteran
+E02639,Vice President,Marketing,Corporate,Female,Black,30,221217.0,0.32,United States,2016-09-21,2017-09-25,1.0,0,New
+E02038,Sr. Manager,Marketing,Corporate,Female,Asian,59,157969.0,0.1,China,2008-08-29,2024-01-29,15.4,1,Veteran
+E00365,Manager,Marketing,Corporate,Male,Asian,28,115417.0,0.06,China,2020-02-02,2024-01-29,4.0,1,New
+E00181,Sr. Analyst,Marketing,Corporate,Female,Asian,46,86510.0,0.0,China,2002-01-15,2003-01-02,1.0,0,New
+E04645,Vice President,Marketing,Corporate,Male,Asian,57,183190.0,0.36,United States,2017-08-04,2024-01-29,6.5,1,Intermediate
+E02943,Sr. Analyst,Marketing,Corporate,Female,Latino,32,88895.0,0.0,United States,2013-11-12,2024-01-29,10.2,1,Intermediate
+E03901,Director,Marketing,Corporate,Male,Asian,45,168846.0,0.24,China,2004-12-11,2024-01-29,19.1,1,Veteran
+E04607,Vice President,Marketing,Corporate,Male,Caucasian,26,223055.0,0.3,United States,2020-09-27,2024-01-29,3.3,1,New
+E02468,Vice President,Marketing,Corporate,Female,Asian,45,211637.0,0.31,United States,2016-02-28,2024-01-29,7.9,1,Intermediate
+E03912,Sr. Analyst,Marketing,Corporate,Male,Caucasian,33,91632.0,0.0,United States,2015-11-17,2024-01-29,8.2,1,Intermediate
+E01371,Vice President,Marketing,Corporate,Male,Asian,41,257194.0,0.35,China,2014-10-04,2024-01-29,9.3,1,Intermediate
+E00161,Vice President,Marketing,Corporate,Male,Asian,60,234311.0,0.37,United States,2007-01-27,2024-01-29,17.0,1,Veteran
+E02534,Director,Marketing,Corporate,Female,Asian,36,157070.0,0.28,China,2010-09-13,2024-01-29,13.4,1,Intermediate
+E00638,Manager,Marketing,Corporate,Male,Caucasian,51,104431.0,0.07,United States,1997-01-26,2024-01-29,27.0,1,Veteran
+E01712,Director,Marketing,Corporate,Male,Asian,45,186138.0,0.28,China,2008-03-12,2024-01-29,15.9,1,Veteran
+E02492,Sr. Analyst,Marketing,Corporate,Male,Asian,40,73779.0,0.0,China,2014-09-22,2019-05-09,4.6,0,New
+E04018,Analyst II,Marketing,Corporate,Female,Caucasian,39,58745.0,0.0,United States,2017-04-18,2024-01-29,6.8,1,Intermediate
+E02562,Analyst,Marketing,Corporate,Male,Latino,51,45206.0,0.0,United States,2007-06-19,2024-01-29,16.6,1,Veteran
+E01636,Manager,Marketing,Corporate,Female,Caucasian,29,122054.0,0.06,United States,2016-11-02,2024-01-29,7.2,1,Intermediate
+E03774,Vice President,Marketing,Corporate,Female,Latino,47,239394.0,0.32,United States,1999-03-13,2024-01-29,24.9,1,Veteran
+E02984,Sr. Analyst,Marketing,Corporate,Male,Asian,45,92293.0,0.0,China,2007-09-22,2024-01-29,16.4,1,Veteran
+E03579,Vice President,Marketing,Corporate,Male,Asian,45,202680.0,0.32,United States,2015-09-24,2022-08-17,6.9,0,Intermediate
+E02732,Analyst,Marketing,Corporate,Female,Asian,39,40897.0,0.0,United States,2014-07-29,2024-01-29,9.5,1,Intermediate
+E03124,Director,Marketing,Corporate,Male,Caucasian,33,164396.0,0.29,United States,2017-06-12,2024-01-29,6.6,1,Intermediate
+E02938,Director,Marketing,Corporate,Male,Asian,49,153961.0,0.25,China,2014-06-26,2024-01-29,9.6,1,Intermediate
+E00447,Vice President,Marketing,Corporate,Female,Latino,32,203445.0,0.34,Brazil,2014-02-05,2024-01-29,10.0,1,Intermediate
+E01300,Sr. Manager,Marketing,Corporate,Female,Asian,65,149417.0,0.13,China,2000-10-24,2024-01-29,23.3,1,Veteran
+E00415,Analyst II,Marketing,Manufacturing,Female,Black,27,68728.0,0.0,United States,2021-09-21,2024-01-29,2.4,1,New
+E04207,Analyst II,Marketing,Manufacturing,Male,Latino,35,66889.0,0.0,United States,2011-05-15,2024-01-29,12.7,1,Intermediate
+E03061,Manager,Marketing,Manufacturing,Female,Caucasian,65,104903.0,0.1,United States,2011-09-07,2024-01-29,12.4,1,Intermediate
+E04630,Manager,Marketing,Manufacturing,Female,Caucasian,59,129708.0,0.05,United States,2007-04-25,2024-01-29,16.8,1,Veteran
+E03520,Analyst,Marketing,Manufacturing,Male,Latino,30,56154.0,0.0,Brazil,2018-06-21,2024-01-29,5.6,1,Intermediate
+E01860,Manager,Marketing,Manufacturing,Male,Caucasian,38,126856.0,0.06,United States,2008-04-06,2024-01-29,15.8,1,Veteran
+E00034,Sr. Manager,Marketing,Manufacturing,Female,Latino,45,121065.0,0.15,Brazil,2004-08-19,2024-01-29,19.5,1,Veteran
+E03300,Analyst,Marketing,Manufacturing,Female,Asian,65,50341.0,0.0,China,2013-09-26,2024-01-29,10.3,1,Intermediate
+E00900,Sr. Analyst,Marketing,Manufacturing,Female,Latino,33,75869.0,0.0,Brazil,2014-04-27,2024-01-29,9.8,1,Intermediate
+E03591,Director,Marketing,Manufacturing,Female,Asian,64,171217.0,0.19,United States,2011-02-14,2024-01-29,13.0,1,Intermediate
+E03988,Analyst II,Marketing,Manufacturing,Male,Caucasian,48,74655.0,0.0,United States,2005-09-28,2024-01-29,18.3,1,Veteran
+E03429,Sr. Analyst,Marketing,Manufacturing,Male,Asian,51,82300.0,0.0,China,2012-04-14,2024-01-29,11.8,1,Intermediate
+E04165,Sr. Manager,Marketing,Manufacturing,Female,Asian,25,136810.0,0.14,China,2021-09-14,2024-01-29,2.4,1,New
+E03807,Sr. Manager,Marketing,Manufacturing,Male,Asian,63,148321.0,0.15,China,2015-03-01,2024-01-29,8.9,1,Intermediate
+E02977,Analyst II,Marketing,Manufacturing,Male,Asian,52,68807.0,0.0,China,1999-05-23,2015-11-30,16.5,0,Veteran
+E02531,Analyst,Marketing,Manufacturing,Male,Caucasian,28,43391.0,0.0,United States,2021-07-18,2024-01-29,2.5,1,New
+E00824,Analyst II,Marketing,Manufacturing,Female,Caucasian,33,68846.0,0.0,United States,2020-03-14,2024-01-29,3.9,1,New
+E04472,Analyst II,Marketing,Manufacturing,Male,Black,35,51513.0,0.0,United States,2020-07-03,2024-01-29,3.6,1,New
+E03059,Manager,Marketing,Manufacturing,Female,Asian,64,108780.0,0.06,China,2019-09-21,2024-01-29,4.4,1,New
+E02420,Director,Marketing,Manufacturing,Female,Asian,35,171426.0,0.15,China,2017-03-06,2017-09-22,0.5,0,New
+E04132,Director,Marketing,Manufacturing,Female,Black,45,150577.0,0.25,United States,2008-02-29,2024-01-29,15.9,1,Veteran
+E03968,Sr. Manager,Marketing,Manufacturing,Male,Asian,60,121480.0,0.14,United States,2021-07-26,2024-01-29,2.5,1,New
+E02846,Manager,Marketing,Manufacturing,Female,Asian,50,108134.0,0.1,China,2012-03-11,2024-01-29,11.9,1,Intermediate
+E03262,Analyst II,Marketing,Manufacturing,Male,Caucasian,65,59833.0,0.0,United States,2005-08-20,2024-01-29,18.5,1,Veteran
+E04542,Manager,Marketing,Manufacturing,Female,Latino,29,129541.0,0.08,United States,2021-05-09,2021-05-24,0.0,0,New
+E04157,Sr. Analyst,Marketing,Manufacturing,Male,Asian,63,77629.0,0.0,China,2017-02-12,2024-01-29,7.0,1,Intermediate
+E03866,Sr. Manager,Marketing,Manufacturing,Male,Asian,32,143970.0,0.12,United States,2017-01-29,2017-12-09,0.9,0,New
+E01108,Manager,Marketing,Manufacturing,Female,Latino,65,127626.0,0.1,United States,2006-09-07,2024-01-29,17.4,1,Veteran
+E03159,Vice President,Marketing,Manufacturing,Female,Latino,37,219474.0,0.36,Brazil,2011-07-21,2024-01-29,12.5,1,Intermediate
+E02627,Analyst II,Marketing,Manufacturing,Male,Latino,47,62749.0,0.0,Brazil,2005-11-28,2024-01-29,18.2,1,Veteran
+E00549,Vice President,Marketing,Research & Development,Female,Asian,41,249270.0,0.3,United States,2013-03-13,2024-01-29,10.9,1,Intermediate
+E01628,Vice President,Marketing,Research & Development,Male,Caucasian,27,256420.0,0.3,United States,2019-10-20,2024-01-29,4.3,1,New
+E00586,Sr. Manager,Marketing,Research & Development,Female,Caucasian,29,122350.0,0.12,United States,2019-05-24,2024-01-29,4.7,1,New
+E00716,Sr. Manager,Marketing,Research & Development,Male,Asian,45,135062.0,0.15,China,2021-03-11,2024-01-29,2.9,1,New
+E04798,Manager,Marketing,Research & Development,Female,Asian,30,120341.0,0.07,United States,2016-04-24,2024-01-29,7.8,1,Intermediate
+E00791,Vice President,Marketing,Research & Development,Male,Latino,57,206624.0,0.4,Brazil,2003-07-26,2024-01-29,20.5,1,Veteran
+E00440,Manager,Marketing,Research & Development,Male,Asian,27,114441.0,0.1,China,2018-09-25,2019-12-22,1.2,0,New
+E00874,Manager,Marketing,Research & Development,Male,Asian,55,102270.0,0.1,United States,1994-09-18,2024-01-29,29.4,1,Veteran
+E03446,Manager,Marketing,Research & Development,Male,Caucasian,51,100099.0,0.08,United States,2020-07-02,2024-01-29,3.6,1,New
+E04035,Sr. Analyst,Marketing,Research & Development,Female,Caucasian,34,83066.0,0.0,United States,2012-06-25,2013-06-05,0.9,0,New
+E02252,Analyst,Marketing,Research & Development,Female,Asian,40,46833.0,0.0,China,2021-02-24,2021-11-10,0.7,0,New
+E01014,Director,Marketing,Research & Development,Male,Asian,49,191807.0,0.21,China,1999-02-19,2024-01-29,25.0,1,Veteran
+E00359,Sr. Analyst,Marketing,Research & Development,Male,Latino,33,91280.0,0.0,United States,2014-11-30,2024-01-29,9.2,1,Intermediate
+E01052,Sr. Manager,Marketing,Research & Development,Male,Asian,45,147752.0,0.12,China,2001-05-03,2011-12-26,10.7,0,Intermediate
+E04155,Sr. Analyst,Marketing,Research & Development,Male,Latino,42,99697.0,0.0,Brazil,2015-04-07,2024-01-29,8.8,1,Intermediate
+E00325,Vice President,Marketing,Research & Development,Male,Asian,39,254057.0,0.39,China,2019-12-05,2024-01-29,4.2,1,New
+E03971,Sr. Manager,Marketing,Research & Development,Female,Asian,25,157057.0,0.1,United States,2020-04-09,2024-01-29,3.8,1,New
+E03370,Analyst II,Marketing,Research & Development,Male,Latino,61,69352.0,0.0,Brazil,2008-04-30,2024-01-29,15.8,1,Veteran
+E00555,Analyst II,Marketing,Research & Development,Male,Asian,65,74631.0,0.0,China,2001-10-17,2024-01-29,22.3,1,Veteran
+E03758,Director,Marketing,Research & Development,Male,Asian,29,199783.0,0.21,United States,2021-09-15,2022-04-10,0.6,0,New
+E04739,Analyst,Marketing,Research & Development,Female,Black,65,56686.0,0.0,United States,2011-06-17,2015-06-09,4.0,0,New
+E04247,Manager,Marketing,Research & Development,Female,Black,55,113950.0,0.09,United States,1992-12-20,2024-01-29,31.1,1,Veteran
+E01883,Manager,Marketing,Research & Development,Female,Black,42,103423.0,0.06,United States,2015-09-19,2024-01-29,8.4,1,Intermediate
+E03354,Director,Marketing,Research & Development,Male,Caucasian,48,194723.0,0.25,United States,2007-08-08,2024-01-29,16.5,1,Veteran
+E01895,Analyst,Marketing,Research & Development,Female,Caucasian,43,41545.0,0.0,United States,2019-07-13,2024-01-29,4.6,1,New
+E02889,Director,Marketing,Research & Development,Female,Latino,43,171360.0,0.23,Brazil,2014-10-16,2024-01-29,9.3,1,Intermediate
+E02558,Director,Marketing,Research & Development,Male,Caucasian,26,151556.0,0.2,United States,2019-10-15,2024-01-29,4.3,1,New
+E00884,Sr. Manager,Marketing,Speciality Products,Female,Latino,64,154828.0,0.13,United States,2003-12-01,2024-01-29,20.2,1,Veteran
+E03749,Manager,Marketing,Speciality Products,Female,Caucasian,53,113135.0,0.05,United States,2013-11-23,2024-01-29,10.2,1,Intermediate
+E00170,Sr. Analyst,Marketing,Speciality Products,Female,Caucasian,35,70992.0,0.0,United States,2019-09-07,2024-01-29,4.4,1,New
+E03394,Vice President,Marketing,Speciality Products,Male,Asian,40,242919.0,0.31,China,2009-02-28,2024-01-29,14.9,1,Intermediate
+E01631,Sr. Analyst,Marketing,Speciality Products,Female,Asian,47,70996.0,0.0,China,2017-07-12,2024-01-29,6.6,1,Intermediate
+E02803,Analyst,Marketing,Speciality Products,Male,Latino,38,50784.0,0.0,Brazil,2016-05-02,2024-01-29,7.7,1,Intermediate
+E04342,Vice President,Marketing,Speciality Products,Female,Caucasian,29,190401.0,0.37,United States,2017-01-05,2024-01-29,7.1,1,Intermediate
+E04972,Sr. Manager,Marketing,Speciality Products,Male,Caucasian,30,148485.0,0.15,United States,2020-07-18,2024-01-29,3.5,1,New
+E04877,Analyst II,Marketing,Speciality Products,Male,Latino,37,69570.0,0.0,United States,2013-03-30,2024-01-29,10.8,1,Intermediate
+E01584,Vice President,Marketing,Speciality Products,Male,Asian,38,255230.0,0.36,United States,2021-08-25,2024-01-29,2.4,1,New
+E03277,Sr. Manager,Marketing,Speciality Products,Female,Asian,31,126353.0,0.12,China,2019-08-18,2024-01-29,4.5,1,New
+E04517,Manager,Marketing,Speciality Products,Female,Asian,43,117278.0,0.09,United States,2006-06-11,2024-01-29,17.6,1,Veteran
+E03550,Sr. Manager,Marketing,Speciality Products,Female,Asian,35,155905.0,0.14,United States,2014-02-20,2024-01-29,9.9,1,Intermediate
+E04938,Analyst,Marketing,Speciality Products,Female,Caucasian,64,57032.0,0.0,United States,2003-02-10,2024-01-29,21.0,1,Veteran
+E01899,Vice President,Marketing,Speciality Products,Male,Caucasian,52,236314.0,0.34,United States,2002-06-11,2024-01-29,21.6,1,Veteran
+E03655,Analyst,Marketing,Speciality Products,Female,Caucasian,28,45061.0,0.0,United States,2020-01-17,2024-01-29,4.0,1,New
+E01347,Vice President,Marketing,Speciality Products,Male,Latino,44,186033.0,0.34,Brazil,2021-03-28,2024-01-29,2.8,1,New
+E01422,Sr. Manager,Marketing,Speciality Products,Female,Latino,29,137106.0,0.12,Brazil,2020-05-15,2024-01-29,3.7,1,New
+E02613,Vice President,Marketing,Speciality Products,Female,Asian,52,182035.0,0.3,United States,1998-04-01,2024-01-29,25.8,1,Veteran
+E02716,Sr. Manager,Marketing,Speciality Products,Male,Asian,45,128468.0,0.11,United States,2005-04-11,2024-01-29,18.8,1,Veteran
+E03683,Director,Marketing,Speciality Products,Female,Asian,28,182321.0,0.28,China,2019-12-11,2024-01-29,4.1,1,New
+E00607,Director,Marketing,Speciality Products,Male,Caucasian,32,177443.0,0.16,United States,2016-11-28,2024-01-29,7.2,1,Intermediate
+E04363,Director,Marketing,Speciality Products,Female,Asian,53,164399.0,0.25,United States,1997-06-20,2024-01-29,26.6,1,Veteran
+E02992,Sr. Manager,Marketing,Speciality Products,Female,Caucasian,55,157812.0,0.11,United States,2001-03-27,2024-01-29,22.9,1,Veteran
+E04095,Sr. Manager,Marketing,Speciality Products,Male,Caucasian,45,127422.0,0.15,United States,2018-01-11,2024-01-29,6.1,1,Intermediate
+E04872,Director,Marketing,Speciality Products,Male,Caucasian,25,172007.0,0.26,United States,2020-08-15,2024-01-29,3.5,1,New
+E02453,Sr. Analyst,Marketing,Speciality Products,Male,Asian,55,93343.0,0.0,China,2006-07-11,2024-01-29,17.6,1,Veteran
+E03778,Sr. Manager,Marketing,Speciality Products,Male,Asian,52,154884.0,0.1,China,2018-06-04,2024-01-29,5.7,1,Intermediate
+E04598,Sr. Analyst,Marketing,Speciality Products,Female,Latino,35,80622.0,0.0,United States,2017-01-10,2024-01-29,7.1,1,Intermediate
+E02703,Manager,Marketing,Speciality Products,Male,Asian,49,119397.0,0.09,China,2018-05-20,2019-03-14,0.8,0,New
+E03094,Sr. Analyst,Marketing,Speciality Products,Male,Caucasian,33,98427.0,0.0,United States,2016-09-18,2024-01-29,7.4,1,Intermediate
+E04398,Director,Marketing,Speciality Products,Male,Asian,31,176710.0,0.15,United States,2019-06-10,2024-01-29,4.6,1,New
+E00644,Account Representative,Sales,Corporate,Male,Asian,57,50994.0,0.0,China,2017-01-24,2024-01-29,7.0,1,Intermediate
+E03906,Sr. Analyst,Sales,Corporate,Female,Caucasian,38,80024.0,0.0,United States,2008-01-27,2024-01-29,16.0,1,Veteran
+E03047,Sr. Account Representative,Sales,Corporate,Female,Asian,41,95372.0,0.0,China,2005-02-15,2024-01-29,19.0,1,Veteran
+E03583,Vice President,Sales,Corporate,Male,Latino,61,201464.0,0.37,United States,2019-09-24,2024-01-29,4.4,1,New
+E00957,Sr. Manager,Sales,Corporate,Female,Caucasian,46,149712.0,0.14,United States,2013-07-18,2024-01-29,10.5,1,Intermediate
+E02791,Director,Sales,Corporate,Female,Latino,49,160832.0,0.3,United States,1998-04-02,2024-01-29,25.8,1,Veteran
+E01002,Manager,Sales,Corporate,Male,Asian,28,127543.0,0.06,China,2021-03-19,2024-01-29,2.9,1,New
+E02183,Analyst,Sales,Corporate,Female,Latino,47,41429.0,0.0,United States,2015-06-09,2024-01-29,8.6,1,Intermediate
+E02121,Sr. Analyst,Sales,Corporate,Male,Black,36,75119.0,0.0,United States,2021-12-26,2024-01-29,2.1,1,New
+E00488,Sr. Analyst,Sales,Corporate,Female,Caucasian,28,82739.0,0.0,United States,2021-07-03,2024-01-29,2.6,1,New
+E04802,Sr. Account Representative,Sales,Corporate,Female,Asian,40,96719.0,0.0,China,2011-01-20,2024-01-29,13.0,1,Intermediate
+E02844,Sr. Manager,Sales,Corporate,Male,Latino,55,124129.0,0.15,Brazil,2013-11-16,2024-01-29,10.2,1,Intermediate
+E00273,Sr. Analyst,Sales,Corporate,Male,Black,43,94246.0,0.0,United States,2004-04-16,2024-01-29,19.8,1,Veteran
+E02295,Analyst,Sales,Corporate,Male,Caucasian,47,54635.0,0.0,United States,2013-02-28,2024-01-29,10.9,1,Intermediate
+E02801,Sr. Manager,Sales,Corporate,Male,Black,51,157487.0,0.12,United States,2000-09-01,2024-01-29,23.4,1,Veteran
+E03697,Manager,Sales,Corporate,Male,Caucasian,28,108826.0,0.1,United States,2021-01-08,2024-01-29,3.1,1,New
+E01052,Analyst,Sales,Corporate,Male,Asian,40,50733.0,0.0,United States,2016-12-17,2024-01-29,7.1,1,Intermediate
+E03805,Analyst II,Sales,Corporate,Female,Latino,34,72126.0,0.0,Brazil,2012-06-06,2024-01-29,11.7,1,Intermediate
+E01019,Sr. Analyst,Sales,Corporate,Male,Caucasian,45,81687.0,0.0,United States,2011-03-16,2024-01-29,12.9,1,Intermediate
+E02415,Sr. Analyst,Sales,Corporate,Female,Latino,52,93103.0,0.0,United States,1994-10-16,2024-01-29,29.3,1,Veteran
+E03648,Account Representative,Sales,Corporate,Female,Black,26,66084.0,0.0,United States,2019-08-21,2024-01-29,4.4,1,New
+E00245,Manager,Sales,Corporate,Male,Black,42,102440.0,0.06,United States,2011-05-29,2024-01-29,12.7,1,Intermediate
+E02427,Manager,Sales,Corporate,Female,Asian,27,127616.0,0.07,United States,2018-09-15,2024-01-29,5.4,1,Intermediate
+E01941,Analyst II,Sales,Corporate,Female,Asian,42,67743.0,0.0,China,2010-05-09,2014-12-25,4.6,0,New
+E03521,Director,Sales,Corporate,Male,Latino,52,163143.0,0.28,Brazil,2020-09-25,2024-01-29,3.3,1,New
+E01943,Sr. Manager,Sales,Corporate,Female,Latino,52,147966.0,0.11,Brazil,2006-10-05,2019-05-23,12.6,0,Intermediate
+E04637,Director,Sales,Corporate,Male,Asian,31,191026.0,0.16,United States,2015-06-29,2024-01-29,8.6,1,Intermediate
+E01967,Director,Sales,Corporate,Male,Asian,58,199848.0,0.16,China,1992-03-19,2024-01-29,31.9,1,Veteran
+E02522,Vice President,Sales,Corporate,Male,Latino,48,258081.0,0.3,United States,2000-02-28,2024-01-29,23.9,1,Veteran
+E00538,Sr. Account Representative,Sales,Corporate,Male,Asian,38,74010.0,0.0,United States,2011-11-28,2024-01-29,12.2,1,Intermediate
+E01652,Sr. Manager,Sales,Corporate,Female,Latino,27,133297.0,0.13,Brazil,2019-09-13,2024-01-29,4.4,1,New
+E03102,Manager,Sales,Corporate,Male,Latino,50,113269.0,0.09,Brazil,2012-04-25,2024-01-29,11.8,1,Intermediate
+E02191,Director,Sales,Corporate,Female,Asian,25,150666.0,0.23,China,2021-12-19,2024-01-29,2.1,1,New
+E04732,Director,Sales,Manufacturing,Female,Latino,36,151703.0,0.21,United States,2021-04-02,2024-01-29,2.8,1,New
+E04562,Account Representative,Sales,Manufacturing,Male,Asian,31,55854.0,0.0,United States,2017-07-22,2024-01-29,6.5,1,Intermediate
+E01427,Sr. Manager,Sales,Manufacturing,Female,Asian,34,154941.0,0.13,United States,2015-04-22,2024-01-29,8.8,1,Intermediate
+E03890,Vice President,Sales,Manufacturing,Female,Caucasian,31,219693.0,0.3,United States,2020-08-20,2024-01-29,3.4,1,New
+E03560,Account Representative,Sales,Manufacturing,Female,Asian,46,73004.0,0.0,China,2004-03-20,2024-01-29,19.9,1,Veteran
+E00752,Vice President,Sales,Manufacturing,Female,Asian,36,218530.0,0.3,China,2014-02-22,2024-01-29,9.9,1,Intermediate
+E03027,Sr. Manager,Sales,Manufacturing,Male,Caucasian,29,151413.0,0.15,United States,2017-03-16,2024-01-29,6.9,1,Intermediate
+E03081,Sr. Manager,Sales,Manufacturing,Female,Caucasian,49,128303.0,0.15,United States,2013-04-15,2024-01-29,10.8,1,Intermediate
+E01116,Sr. Manager,Sales,Manufacturing,Male,Asian,45,151027.0,0.1,China,2007-09-07,2024-01-29,16.4,1,Veteran
+E01132,Account Representative,Sales,Manufacturing,Male,Black,47,70122.0,0.0,United States,2002-10-21,2024-01-29,21.3,1,Veteran
+E03251,Director,Sales,Manufacturing,Female,Latino,50,155351.0,0.2,United States,2018-12-18,2024-01-29,5.1,1,Intermediate
+E00788,Analyst II,Sales,Manufacturing,Female,Latino,56,59591.0,0.0,Brazil,1992-06-15,2024-01-29,31.6,1,Veteran
+E02769,Account Representative,Sales,Manufacturing,Female,Caucasian,26,63137.0,0.0,United States,2021-11-21,2024-01-29,2.2,1,New
+E01238,Director,Sales,Manufacturing,Female,Caucasian,55,153271.0,0.15,United States,1995-10-29,2024-01-29,28.3,1,Veteran
+E02633,Vice President,Sales,Manufacturing,Female,Black,54,222224.0,0.38,United States,2000-08-19,2024-01-29,23.5,1,Veteran
+E00758,Account Representative,Sales,Manufacturing,Male,Asian,35,59646.0,0.0,China,2013-08-30,2024-01-29,10.4,1,Intermediate
+E04108,Sr. Analyst,Sales,Manufacturing,Female,Latino,33,88343.0,0.0,Brazil,2012-05-14,2024-01-29,11.7,1,Intermediate
+E01488,Director,Sales,Manufacturing,Female,Caucasian,61,151783.0,0.26,United States,2021-01-23,2024-01-29,3.0,1,New
+E00022,Account Representative,Sales,Manufacturing,Female,Asian,62,64669.0,0.0,China,2006-09-17,2024-01-29,17.4,1,Veteran
+E00530,Sr. Manager,Sales,Manufacturing,Female,Asian,46,158897.0,0.1,China,2004-02-29,2024-01-29,19.9,1,Veteran
+E04952,Sr. Analyst,Sales,Manufacturing,Female,Latino,57,98150.0,0.0,Brazil,2007-10-02,2024-01-29,16.3,1,Veteran
+E03170,Account Representative,Sales,Manufacturing,Female,Asian,63,72340.0,0.0,United States,2017-09-26,2019-04-03,1.5,0,New
+E01789,Sr. Manager,Sales,Manufacturing,Male,Asian,25,142731.0,0.11,China,2021-06-15,2022-06-03,1.0,0,New
+E00170,Director,Sales,Manufacturing,Female,Black,61,159567.0,0.28,United States,1997-08-19,2024-01-29,26.5,1,Veteran
+E02024,Sr. Analyst,Sales,Manufacturing,Female,Caucasian,53,89769.0,0.0,United States,2017-08-05,2024-01-29,6.5,1,Intermediate
+E00749,Account Representative,Sales,Manufacturing,Female,Asian,37,64204.0,0.0,United States,2015-11-10,2021-04-20,5.4,0,Intermediate
+E02391,Sr. Manager,Sales,Manufacturing,Female,Latino,49,157057.0,0.12,United States,1996-04-02,2024-01-29,27.8,1,Veteran
+E00568,Analyst,Sales,Manufacturing,Male,Latino,26,44732.0,0.0,Brazil,2021-03-02,2024-01-29,2.9,1,New
+E02047,Sr. Analyst,Sales,Manufacturing,Male,Latino,51,71111.0,0.0,Brazil,1998-02-26,2024-01-29,25.9,1,Veteran
+E03007,Analyst,Sales,Manufacturing,Male,Caucasian,54,58006.0,0.0,United States,1998-09-24,2024-01-29,25.4,1,Veteran
+E00994,Analyst II,Sales,Manufacturing,Female,Caucasian,29,60930.0,0.0,United States,2016-11-17,2024-01-29,7.2,1,Intermediate
+E03580,Analyst II,Sales,Manufacturing,Male,Latino,39,51234.0,0.0,United States,2007-05-27,2024-01-29,16.7,1,Veteran
+E04354,Vice President,Sales,Manufacturing,Female,Latino,43,258498.0,0.35,United States,2016-08-21,2024-01-29,7.4,1,Intermediate
+E04625,Director,Sales,Research & Development,Male,Asian,45,166331.0,0.18,China,2002-07-09,2024-01-29,21.6,1,Veteran
+E01994,Analyst II,Sales,Research & Development,Male,Caucasian,61,66521.0,0.0,United States,2008-07-11,2024-01-29,15.6,1,Veteran
+E02850,Director,Sales,Research & Development,Female,Asian,41,171173.0,0.21,United States,2018-08-10,2024-01-29,5.5,1,Intermediate
+E03849,Analyst,Sales,Research & Development,Female,Asian,30,48340.0,0.0,China,2021-02-14,2024-01-29,3.0,1,New
+E02783,Vice President,Sales,Research & Development,Male,Latino,39,249506.0,0.3,Brazil,2011-08-23,2024-01-29,12.4,1,Intermediate
+E02848,Sr. Account Representative,Sales,Research & Development,Female,Caucasian,30,89458.0,0.0,United States,2016-12-18,2024-01-29,7.1,1,Intermediate
+E03956,Sr. Manager,Sales,Research & Development,Female,Caucasian,62,137995.0,0.14,United States,1999-08-02,2024-01-29,24.5,1,Veteran
+E01221,Analyst II,Sales,Research & Development,Female,Latino,48,61216.0,0.0,United States,2014-05-14,2024-01-29,9.7,1,Intermediate
+E02285,Director,Sales,Research & Development,Female,Asian,45,165181.0,0.16,United States,2002-03-01,2024-01-29,21.9,1,Veteran
+E04127,Vice President,Sales,Research & Development,Female,Latino,42,181452.0,0.3,United States,2013-09-11,2024-01-29,10.4,1,Intermediate
+E02189,Account Representative,Sales,Research & Development,Female,Latino,29,65334.0,0.0,Brazil,2018-05-19,2024-01-29,5.7,1,Intermediate
+E03423,Manager,Sales,Research & Development,Male,Latino,36,105891.0,0.07,United States,2012-07-26,2024-01-29,11.5,1,Intermediate
+E04729,Vice President,Sales,Research & Development,Male,Asian,56,216949.0,0.32,China,2004-02-25,2024-01-29,19.9,1,Veteran
+E01807,Sr. Analyst,Sales,Research & Development,Male,Asian,52,99624.0,0.0,United States,1994-02-18,2024-01-29,30.0,1,Veteran
+E00145,Sr. Analyst,Sales,Research & Development,Male,Latino,58,76802.0,0.0,Brazil,2009-04-27,2024-01-29,14.8,1,Intermediate
+E03578,Analyst II,Sales,Research & Development,Male,Asian,34,58993.0,0.0,United States,2018-03-10,2024-01-29,5.9,1,Intermediate
+E00446,Sr. Analyst,Sales,Research & Development,Male,Caucasian,30,96092.0,0.0,United States,2019-11-04,2024-01-29,4.2,1,New
+E01985,Account Representative,Sales,Research & Development,Female,Black,65,67837.0,0.0,United States,2000-09-29,2024-01-29,23.3,1,Veteran
+E03273,Analyst II,Sales,Research & Development,Male,Asian,41,72425.0,0.0,China,2010-06-04,2024-01-29,13.7,1,Intermediate
+E04887,Account Representative,Sales,Research & Development,Female,Asian,40,55457.0,0.0,United States,2018-03-16,2024-01-29,5.9,1,Intermediate
+E01150,Sr. Analyst,Sales,Research & Development,Female,Asian,62,97830.0,0.0,United States,2020-05-18,2024-01-29,3.7,1,New
+E02818,Director,Sales,Research & Development,Male,Latino,39,165756.0,0.28,United States,2013-12-27,2020-06-09,6.5,0,Intermediate
+E04853,Sr. Account Representative,Sales,Research & Development,Female,Asian,46,72131.0,0.0,China,2021-01-17,2024-01-29,3.0,1,New
+E00412,Analyst II,Sales,Research & Development,Male,Caucasian,37,57531.0,0.0,United States,2010-04-23,2024-01-29,13.8,1,Intermediate
+E01090,Director,Sales,Research & Development,Male,Asian,49,199176.0,0.24,United States,2001-07-20,2024-01-29,22.5,1,Veteran
+E04636,Account Representative,Sales,Research & Development,Female,Asian,54,56239.0,0.0,China,2021-03-16,2024-01-29,2.9,1,New
+E03611,Analyst II,Sales,Research & Development,Female,Asian,45,52621.0,0.0,China,2019-04-02,2024-01-29,4.8,1,New
+E01582,Sr. Manager,Sales,Research & Development,Male,Caucasian,53,159538.0,0.11,United States,2014-10-19,2024-01-29,9.3,1,Intermediate
+E01225,Manager,Sales,Research & Development,Male,Asian,49,109850.0,0.07,China,2012-08-10,2020-02-04,7.5,0,Intermediate
+E03863,Account Representative,Sales,Research & Development,Female,Black,40,62411.0,0.0,United States,2009-05-27,2021-08-14,12.2,0,Intermediate
+E03894,Manager,Sales,Research & Development,Female,Asian,50,106428.0,0.07,United States,2000-05-07,2024-01-29,23.7,1,Veteran
+E03000,Account Representative,Sales,Research & Development,Female,Asian,33,56405.0,0.0,United States,2021-01-22,2024-01-29,3.0,1,New
+E03278,Director,Sales,Research & Development,Male,Asian,27,174607.0,0.29,United States,2019-11-07,2024-01-29,4.2,1,New
+E00671,Analyst,Sales,Speciality Products,Male,Caucasian,37,49998.0,0.0,United States,2019-09-05,2024-01-29,4.4,1,New
+E02071,Vice President,Sales,Speciality Products,Male,Asian,44,207172.0,0.31,China,2014-03-02,2024-01-29,9.9,1,Intermediate
+E03549,Account Representative,Sales,Speciality Products,Male,Asian,30,59100.0,0.0,China,2016-09-29,2024-01-29,7.3,1,Intermediate
+E04600,Account Representative,Sales,Speciality Products,Male,Asian,37,56037.0,0.0,China,2013-11-14,2024-01-29,10.2,1,Intermediate
+E01533,Sr. Analyst,Sales,Speciality Products,Female,Caucasian,49,86658.0,0.0,United States,1996-05-15,2024-01-29,27.7,1,Veteran
+E02254,Sr. Analyst,Sales,Speciality Products,Male,Latino,61,90855.0,0.0,Brazil,2017-05-03,2024-01-29,6.7,1,Intermediate
+E03189,Sr. Manager,Sales,Speciality Products,Male,Caucasian,50,123405.0,0.13,United States,2003-03-25,2024-01-29,20.9,1,Veteran
+E00725,Account Representative,Sales,Speciality Products,Female,Latino,45,65047.0,0.0,Brazil,2014-05-10,2024-01-29,9.7,1,Intermediate
+E01291,Sr. Account Representative,Sales,Speciality Products,Male,Latino,45,79882.0,0.0,United States,2021-02-10,2024-01-29,3.0,1,New
+E00742,Manager,Sales,Speciality Products,Male,Caucasian,43,117518.0,0.07,United States,2006-01-31,2024-01-29,18.0,1,Veteran
+E00178,Sr. Analyst,Sales,Speciality Products,Female,Caucasian,26,79356.0,0.0,United States,2019-10-14,2024-01-29,4.3,1,New
+E03419,Account Representative,Sales,Speciality Products,Female,Asian,47,63880.0,0.0,China,2015-07-10,2024-01-29,8.6,1,Intermediate
+E01466,Analyst,Sales,Speciality Products,Male,Asian,25,46845.0,0.0,United States,2021-07-28,2024-01-29,2.5,1,New
+E04419,Sr. Manager,Sales,Speciality Products,Female,Asian,30,127972.0,0.11,United States,2015-06-13,2024-01-29,8.6,1,Intermediate
+E04168,Manager,Sales,Speciality Products,Female,Latino,38,119647.0,0.09,Brazil,2017-09-21,2024-01-29,6.4,1,Intermediate
+E04937,Manager,Sales,Speciality Products,Male,Asian,52,117062.0,0.07,United States,2014-08-07,2024-01-29,9.5,1,Intermediate
+E01762,Manager,Sales,Speciality Products,Female,Asian,55,108686.0,0.06,United States,2012-10-20,2024-01-29,11.3,1,Intermediate
+E04101,Director,Sales,Speciality Products,Female,Caucasian,63,181216.0,0.27,United States,2020-06-14,2024-01-29,3.6,1,New
+E00116,Analyst,Sales,Speciality Products,Female,Asian,64,55369.0,0.0,United States,2005-01-28,2024-01-29,19.0,1,Veteran
+E00218,Vice President,Sales,Speciality Products,Male,Asian,47,253249.0,0.31,United States,2016-11-22,2024-01-29,7.2,1,Intermediate
+E02613,Sr. Analyst,Sales,Speciality Products,Male,Asian,63,73200.0,0.0,China,2018-03-12,2024-01-29,5.9,1,Intermediate
+E01760,Sr. Account Representative,Sales,Speciality Products,Female,Latino,26,87427.0,0.0,Brazil,2021-02-09,2024-01-29,3.0,1,New
+E03980,Account Representative,Sales,Speciality Products,Female,Asian,45,60113.0,0.0,United States,2000-08-16,2024-01-29,23.5,1,Veteran
+E04128,Analyst II,Sales,Speciality Products,Male,Asian,55,67130.0,0.0,United States,2021-08-02,2024-01-29,2.5,1,New
+E02478,Manager,Sales,Speciality Products,Male,Caucasian,33,119631.0,0.06,United States,2013-06-21,2024-01-29,10.6,1,Intermediate
+E01733,Manager,Sales,Speciality Products,Female,Asian,45,123640.0,0.07,China,2011-10-20,2024-01-29,12.3,1,Intermediate
+E02857,Analyst,Sales,Speciality Products,Female,Caucasian,33,46878.0,0.0,United States,2014-04-13,2024-01-29,9.8,1,Intermediate
+E04277,Analyst II,Sales,Speciality Products,Female,Asian,60,51877.0,0.0,China,2014-01-08,2024-01-29,10.1,1,Intermediate
+E04940,Vice President,Sales,Speciality Products,Male,Black,36,195200.0,0.36,United States,2018-03-19,2024-01-29,5.9,1,Intermediate
+E03064,Analyst II,Sales,Speciality Products,Male,Asian,31,67171.0,0.0,China,2020-02-17,2021-05-01,1.2,0,New
+E00634,Sr. Analyst,Sales,Speciality Products,Female,Latino,53,75769.0,0.0,Brazil,2017-01-09,2020-07-17,3.5,0,New
+E02800,Sr. Manager,Sales,Speciality Products,Female,Latino,45,148991.0,0.12,Brazil,2018-07-24,2024-01-29,5.5,1,Intermediate
+E01413,Sr. Account Representative,Sales,Speciality Products,Female,Black,60,71677.0,0.0,United States,1997-07-30,2024-01-29,26.5,1,Veteran
+E02720,Sr. Analyst,Sales,Speciality Products,Male,Asian,59,83685.0,0.0,China,1997-03-13,2024-01-29,26.9,1,Veteran
+E03795,Sr. Manager,Sales,Speciality Products,Female,Black,30,154624.0,0.15,United States,2017-08-13,2024-01-29,6.5,1,Intermediate
+E00943,Director,Sales,Speciality Products,Female,Latino,27,154973.0,0.29,Brazil,2018-10-24,2024-01-29,5.3,1,Intermediate
+E01415,Sr. Account Representative,Sales,Speciality Products,Male,Caucasian,32,96598.0,0.0,United States,2020-02-03,2024-01-29,4.0,1,New
+E00717,Manager,Sales,Speciality Products,Female,Asian,64,106444.0,0.05,United States,2003-05-21,2024-01-29,20.7,1,Veteran
+E04335,Sr. Analyst,Sales,Speciality Products,Male,Caucasian,31,81828.0,0.0,United States,2018-08-13,2024-01-29,5.5,1,Intermediate
+E02059,Sr. Manager,Sales,Speciality Products,Male,Latino,54,122644.0,0.12,United States,2011-10-20,2024-01-29,12.3,1,Intermediate
+E00005,Director,Sales,Speciality Products,Female,Caucasian,39,171487.0,0.23,United States,2007-04-29,2024-01-29,16.8,1,Veteran
